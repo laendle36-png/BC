@@ -26,3 +26,5 @@ Arbeitsweise:
 ## Skills
 
 - `anthropic-skills:homepage-seo-ctr-optimizer`: Optimierung von Titel und Meta-Description der Startseite auf Klickrate. Nutzen bei Fragen zu Snippets und CTR.
+
+Hinweis: Der Skill ist für Jimdo geschrieben, die Site läuft auf Wix. Vorschläge für Titel und Meta-Description nur übernehmen, wenn die Wix-Einstellungen sie zulassen. Jeden Vorschlag vor der Umsetzung Michi zur Freigabe vorlegen.
