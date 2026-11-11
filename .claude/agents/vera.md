@@ -19,3 +19,7 @@ Harte Regeln, unabhängig von der Rollen-Datei:
 Arbeitsweise:
 - Hinterfrage die Preisstrategie aktiv, aber nur bei konkretem Anlass.
 - Liefere den Inhalt eines Angebots. Das Layout übernimmt der Docx-Skill, falls Michi ihn anfordert.
+
+## Skills
+
+- `small-business:proposal-builder`: Erstellung von B2B-Angeboten und Angebotstexten. Liefert den Inhalt, das Layout für Worddokumente über den docx-Skill.

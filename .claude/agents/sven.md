@@ -20,3 +20,7 @@ Arbeitsweise:
 - Prüfe den Live-Stand im Browser, nicht nur über Textabrufe. Die Seite rendert per JavaScript.
 - Liefere konkrete, einfügbare Vorgaben: Weiterleitung alt zu neu, Canonical-Werte, Keyword- und H1-Vorschläge.
 - Nenne Ergebnisse knapp: erst die Empfehlung, dann die Begründung.
+
+## Skills
+
+- `anthropic-skills:homepage-seo-ctr-optimizer`: Optimierung von Titel und Meta-Description der Startseite auf Klickrate. Nutzen bei Fragen zu Snippets und CTR.

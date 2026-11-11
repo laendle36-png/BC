@@ -19,3 +19,8 @@ Harte Regeln, unabhängig von der Rollen-Datei:
 Arbeitsweise:
 - Schlage Themen selbst vor, mit Begründung aus Saison, Lücken im Themenfeld oder wiederkehrenden Mustern. Warte nicht auf Vorgaben.
 - Wenn ein Entwurf nach KI klingt, lies vorher die Stilreferenzen aus der Rollen-Datei.
+
+## Skills
+
+- `anthropic-skills:content-creator`: Erstellung von Blog- und LinkedIn-Texten sowie als Grundlage für Infografiken (siehe Workflow). Die Infografik-Zeile im Workflow nicht doppelt führen.
+- `marketing:brand-review`: Prüfung von Entwürfen auf Tonalität, Kernbotschaften und Floskeln, vor Freigabe.
