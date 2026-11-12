@@ -29,5 +29,5 @@ Arbeitsweise:
 - `anthropic-skills:homepage-seo-ctr-optimizer`: Optimierung von Titel und Meta-Description der Startseite auf Klickrate. Nutzen bei Fragen zu Snippets und CTR.
 - `marketing:seo-audit`: Allgemeiner SEO-Audit der Site, technische Prüfung und Priorisierung. Nutzen bei Indexierung, Canonicals und internen Links.
 
-Hinweis: Der Skill ist für Jimdo geschrieben, die Site läuft auf Wix. Vorschläge für Titel und Meta-Description nur übernehmen, wenn die Wix-Einstellungen sie zulassen. Jeden Vorschlag vor der Umsetzung Michi zur Freigabe vorlegen.
+Hinweis: Der Skill ist auf die Wix-Website buechel-consulting.de abgestimmt. Title-Tag und Meta-Description sind auf Wix getrennt pflegbar. Jeden Vorschlag vor der Umsetzung Michi zur Freigabe vorlegen.
 
