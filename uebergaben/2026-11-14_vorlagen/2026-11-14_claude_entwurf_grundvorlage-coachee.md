@@ -65,7 +65,7 @@ Die Datenbank hat je Methode das Feld `sitzung.vorlagen` (Liste, bisher überall
 
 1. **Stil:** Variante B. Der Büchel-Stil aus Michis Circle-of-Influence-Datei (Dunkelblau, Gold, Logo, Karten) ist der Standard für alle Coachee-Vorlagen. Die Handschrift (Caveat) wird nicht übernommen. Das Kraft-Ressourcen-Modell bleibt, wie es ist, und kann später angeglichen werden.
 2. **Einsatzform:** Druckblatt, DIN A4 quer, bei Bedarf auf A3 skaliert. Goodnotes wird nicht gebraucht (Michi, 14.11.).
-3. **Leitfragen:** nur im Coach-Exemplar. Die Reflexionsfragen auf den Karten in Michis Circle-of-Influence-Datei bleiben stehen, weil Michi sie dort selbst gesetzt hat (Rückfrage offen).
+3. **Leitfragen:** Fragen, mit denen der Coach das Gespräch führt (aus dem Fragenkatalog), stehen nur im Coach-Exemplar. Reflexionsfragen, die den Coachee beim Ausfüllen führen (zum Beispiel auf den Karten des Circle of Influence), bleiben auf dem Blatt (Michi, 14.11.).
 4. **Covey und 1989:** Der Untertitel in Michis Datei bleibt unverändert auf dem Blatt (Michi, 14.11.). Die Lernmatrix führt die Herkunft weiter als „unsicher“, die Buchstelle ist nicht geprüft.
 5. **Abschluss-Streifen (Baustein E):** nur bei Interventionen mit Umsetzungsvorhaben. Beim Circle of Influence bleibt er, weil der erste Schritt dort zum Ergebnis gehört. Bei Interventionen ohne Vorhaben (reine Klärung, Wahrnehmung) entfällt er.
 
@@ -75,8 +75,7 @@ Datei: `CLAUDE OUTPUTS/2026-11-14_Coachee-Vorlagen/Circle_of_Influence_Vorlage_A
 
 ## Noch offen
 
-1. **Fragen auf den Karten:** Bleiben sie auf dem Blatt des Coachees (wie in Michis Datei) oder wandern sie ins Coach-Exemplar? Bis zur Antwort stehen sie unverändert auf dem Blatt.
-2. **Weitere Vorlagen:** Nächste Vorlagen: Walt-Disney-Methode und Wahrnehmungspositionen, Inhalt aus den CAS-Unterlagen (`B7_WaltDisneyMethode`, `B4_Wahrnehmungspositionen`).
+1. **Weitere Vorlagen:** Nächste Vorlagen: Walt-Disney-Methode und Wahrnehmungspositionen, Inhalt aus den CAS-Unterlagen (`B7_WaltDisneyMethode`, `B4_Wahrnehmungspositionen`).
 
 ## Nicht geprüft
 
