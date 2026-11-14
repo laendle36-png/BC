@@ -39,7 +39,7 @@ Der Circle of Influence liegt noch nicht als Vorlage vor. Michi findet ihn beson
 - Format: A4 quer (29,7 × 21 cm), Goodnotes. Michis Datei ist A3 im Verhältnis 4:3 und wurde auf A4 quer umgesetzt.
 - Schrift: Helvetica (in Michis Datei), Titel 30 pt fett, Fließtext 11 bis 13 pt.
 - Farben: Dunkelblau `#1F2A44` für Text, Gold `#C9A227` für Akzente, Hellgrau-Blau `#E9EDF3`, Creme `#F3EAD0`, Grau `#5B6577` für Nebentexte.
-- Logo: Büchel-Logo als PNG (3468 × 830 Pixel) oben rechts, 6 cm breit.
+- Logo: vollständiges Büchel-Logo mit „CONSULTING“ (PNG, 3888 × 1088 Pixel), oben rechts, 6,4 cm breit. Datei: `CLAUDE OUTPUTS/2026-11-14_Coachee-Vorlagen/Logo_Buechel_Consulting_vollstaendig.png`. Die Logo-Datei in Michis Präsentation ist beschnitten (nur „BÜCHEL“) und wird nicht verwendet.
 - Post-it-Felder: weiße Quadrate mit gestrichelter Linie und abgerundeten Ecken, 1,4 bis 1,6 cm.
 - Karten (Seite 2): drei abgerundete Karten in Gold, Dunkelblau und Hellgrau-Blau, je mit Titel, Fragen und drei Feldern.
 
