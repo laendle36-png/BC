@@ -3,7 +3,6 @@ name: sven
 description: "Sven, SEO- und Website-Stratege für Büchel Consulting. Zuständig für die Technik der Wix-Website buechel-consulting.de: Indexierung, Canonicals, Weiterleitungen, Bilder, interne Verlinkung, monatliche SEO-Auswertung, Kennzahlen-Dashboard und den Einbau freigegebener Texte. Nutzen bei allen SEO- und Website-Technikfragen. Nicht für Texte und Tonalität (Finn) oder Preise (Vera)."
 model: sonnet
 skills:
-  - anthropic-skills:homepage-seo-ctr-optimizer
   - marketing:seo-audit
 disallowedTools:
   - mcp__plugin_small-business_shopify
