@@ -34,12 +34,14 @@ Der Circle of Influence liegt noch nicht als Vorlage vor. Michi findet ihn beson
 | E Abschluss-Streifen | Erkenntnis in eigenen Worten, erster Schritt bis wann, Skala 1 bis 10 vorher und nachher | Passt zu den Feldern `skala_ein`, `skala_end` und Transfer im Sitzungsplan |
 | F Fuß | Quelle und Hinweis „Vorlage von Büchel Consulting“ | Kennzeichnung belegt oder unsicher nur im Coach-Exemplar, nicht auf dem Blatt des Coachees |
 
-### Gestaltungswerte (aus dem Kraft-Ressourcen-Modell übernommen)
+### Gestaltungswerte (Büchel-Stil, aus Michis Datei „Circle of Influence Vorlage“)
 
-- Format: 1400 × 1020 Pixel, ein Rahmen mit 8 Pixel Linie und 12 Pixel Radius.
-- Schrift: Caveat (500, 700), Überschriften 34 bis 66 Pixel. Handschrift passt zu Post-its.
-- Farben: Dunkelblau `#052955` für Text und Linien, Gold `#CD9F49` für Akzente, Grün `#2E7D4F` auf `#E8F3EC`, Rot `#C0392B` auf `#FBE9E7`, Goldfeld `#FAF1DE`, Grau `#8A93A3` für Nebentexte.
-- Das Inneres-Team-Blatt nutzt stattdessen Fraunces und Inter auf Cremefarbe. Das ist eine eigene Ausprägung und müsste angeglichen werden (offener Punkt 1).
+- Format: A4 quer (29,7 × 21 cm), Goodnotes. Michis Datei ist A3 im Verhältnis 4:3 und wurde auf A4 quer umgesetzt.
+- Schrift: Helvetica (in Michis Datei), Titel 30 pt fett, Fließtext 11 bis 13 pt.
+- Farben: Dunkelblau `#1F2A44` für Text, Gold `#C9A227` für Akzente, Hellgrau-Blau `#E9EDF3`, Creme `#F3EAD0`, Grau `#5B6577` für Nebentexte.
+- Logo: Büchel-Logo als PNG (3468 × 830 Pixel) oben rechts, 6 cm breit.
+- Post-it-Felder: weiße Quadrate mit gestrichelter Linie und abgerundeten Ecken, 1,4 bis 1,6 cm.
+- Karten (Seite 2): drei abgerundete Karten in Gold, Dunkelblau und Hellgrau-Blau, je mit Titel, Fragen und drei Feldern.
 
 ## Bausteine je Intervention (Umbau-Tabelle)
 
@@ -61,18 +63,22 @@ Die Datenbank hat je Methode das Feld `sitzung.vorlagen` (Liste, bisher überall
 
 ## Entscheidungen Michi (14.11.2026, im Chat)
 
-1. **Stil:** Handschrift (Caveat), Farben und Gestaltungswerte wie beim Kraft-Ressourcen-Modell. Das Inneres-Team-Blatt wird später angeglichen.
-2. **Einsatzform:** Goodnotes, A4 quer. Die Pixelmaße oben (1400 × 1020) gelten als Seitenverhältnis-Vorbild und werden auf A4 quer umgerechnet (1,414 : 1).
-3. **Leitfragen:** nur im Coach-Exemplar, nicht auf dem Blatt des Coachees.
+1. **Stil:** Variante B. Der Büchel-Stil aus Michis Circle-of-Influence-Datei (Dunkelblau, Gold, Logo, Karten) ist der Standard für alle Coachee-Vorlagen. Die Handschrift (Caveat) wird nicht übernommen. Das Kraft-Ressourcen-Modell bleibt, wie es ist, und kann später angeglichen werden.
+2. **Einsatzform:** Goodnotes, A4 quer.
+3. **Leitfragen:** nur im Coach-Exemplar. Die Reflexionsfragen auf den Karten in Michis Circle-of-Influence-Datei bleiben stehen, weil Michi sie dort selbst gesetzt hat (Rückfrage offen).
+
+## Erste Vorlage: Circle of Influence (Entwurf liegt vor)
+
+Datei: `CLAUDE OUTPUTS/2026-11-14_Coachee-Vorlagen/Circle_of_Influence_Vorlage_Goodnotes.pptx` (und `.pdf`) in der Nextcloud. Inhalt von Michis Datei übernommen (drei Kreise mit Erklärtexten, drei Karten mit Fragen), dazu Datum und Thema, Post-it-Felder in allen Kreisen und auf den Karten, ein Abschluss-Streifen mit Erkenntnis, erstem Schritt und Skala 1 bis 10 vorher und nachher. In den CAS-Unterlagen und im Handbuch gibt es keine Quelle zum Circle of Influence. Michis Blatt ist die einzige Beschreibung.
 
 ## Noch offen
 
-1. **Circle of Influence:** Wie nutzt du ihn mit Coachees (zwei Kreise oder drei, welche Fragen, Ziel der Sitzung)? Herkunft laut Lernmatrix: Covey zugeschrieben, nicht belegt. Der Eintrag hat keinen Ablauf und keine Fragen. Die Vorlage würde die Herkunft nicht nennen, solange sie nicht belegt ist.
-2. **Abschluss-Streifen:** Auf jedem Blatt oder nur, wenn die Intervention mit einem Umsetzungsvorhaben endet?
-3. **Logo:** Ich brauche die Logo-Datei für neue Artifacts (die vorhandenen verweisen auf eine Datei in ihrem eigenen Speicher).
+1. **Abschluss-Streifen:** Auf jedem Blatt oder nur, wenn die Intervention mit einem Umsetzungsvorhaben endet? Auf dem Circle-of-Influence-Blatt steht er zunächst auf Seite 2.
+2. **Fragen auf den Karten:** Bleiben sie auf dem Blatt des Coachees (wie in Michis Datei) oder wandern sie ins Coach-Exemplar?
+3. **Covey und 1989:** Der Untertitel von Michis Datei nennt Covey und das Jahr 1989. Die Lernmatrix führt die Herkunft als „unsicher“, die Buchstelle ist nicht geprüft. Der Untertitel steht unverändert auf dem Blatt.
+4. **Grafik-Vorbild für weitere Vorlagen:** nächste Vorlagen: Walt-Disney-Methode und Wahrnehmungspositionen, Inhalt aus den CAS-Unterlagen (`B7_WaltDisneyMethode`, `B4_Wahrnehmungspositionen`).
 
 ## Nicht geprüft
 
-- Das Aussehen der beiden Vorbilder habe ich nur im Code gelesen, nicht gerendert.
-- Die Gestaltungswerte stammen aus dem Quelltext des Kraft-Ressourcen-Modells.
-- Beim Circle of Influence ist alles außer der Grobstruktur noch offen.
+- Die beiden ersten Vorbilder (Kraft-Ressourcen, Inneres Team) habe ich nur im Code gelesen, nicht gerendert. Michis pptx und den neuen Entwurf habe ich mit LibreOffice gerendert und angesehen, nicht in Goodnotes.
+- Der Entwurf des Circle of Influence ist nicht in Goodnotes getestet (Import des PDFs, Größe der Felder).
