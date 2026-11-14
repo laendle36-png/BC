@@ -113,10 +113,20 @@ Datei: `CLAUDE OUTPUTS/2026-11-14_Coachee-Vorlagen/Ressourcen_Zeitlinie_Vorlage_
 - **Die Zeitlinie liegt waagerecht** (links Vergangenheit, rechts Zukunft). Die Unterlage zeichnet sie senkrecht (Z oben, V unten). Das ist eine Anpassung an das Querformat.
 - Die Unterlage ist für die Arbeit am Boden gedacht (Bodenanker, Gehen). Das Blatt begleitet das, ersetzt es nicht.
 
+## Sechste Vorlage: Reframing (Entwurf liegt vor)
+
+Datei: `CLAUDE OUTPUTS/2026-11-14_Coachee-Vorlagen/Reframing_Vorlage_A4.pptx` (und `.pdf`). Inhalt aus der CAS-Unterlage `B7_ReframingUmdeutung`.
+
+- **Seite 1:** Zwei Bilderrahmen mit Pfeil dazwischen: „Mein Rahmen heute“ (Situation, Problem) und „Mein neuer Rahmen“ (neue Bedeutung). Darunter die beiden Arten des Reframings zum Ankreuzen: Bedeutungs-Reframing (das Problem wird zur Ressource) und Kontext-Reframing (in einer bestimmten Situation ist das Problem ein Vorteil). Das Beispiel „Ich ärgere mich immer so über …“ steht wörtlich nach der Unterlage.
+- **Seite 2:** Die fünf Fragen der Unterlage, in Ich-Form geglättet, mit Platz für die Antwort. Darunter „Meine neue Sichtweise“ in einem Satz, zwei Häkchen (selbst gefunden oder angeboten und angenommen) und eine Skala 1 bis 10 für die Hilfreichkeit.
+- **Kein Abschluss-Streifen:** Reframing endet nicht mit einem Umsetzungsvorhaben, deshalb entfällt er (Entscheidung Michi vom 14.11.). Statt eines Vorhabens steht die neue Sichtweise im Wortlaut des Coachees, wie es die Lernmatrix unter Nachbereitung verlangt. Das Häkchen „selbst gefunden“ stammt ebenfalls aus der Lernmatrix.
+- **Hinweis aus der Unterlage:** Es geht nicht darum, ob die neue Sicht überprüfbar oder realistisch ist, sondern ob sie hilfreicher ist als die bisherige. Er steht auf Seite 1.
+- Die Lernmatrix nennt als Grenze: erst die Ist-Situation würdigen, dann umdeuten, und die Umdeutung nur als Angebot. Das ist eine Hinweisfrage für den Coach und steht nicht auf dem Blatt.
+
 ## Noch offen
 
-1. **Weitere Vorlagen:** nach Bedarf Reframing oder weitere Methoden (Inhalt aus den CAS-Unterlagen). Michi nennt die Reihenfolge.
-2. **Eintrag in der Lernmatrix:** Die fertigen Vorlagen können im Feld `sitzung.vorlagen` der Methoden eingetragen werden (Circle of Influence, Walt Disney, Wahrnehmungspositionen, Werteleiter, Ressourcen-Zeitlinie). Dazu braucht es einen Link auf die Dateien in der Nextcloud und Michis Freigabe für Anna.
+1. **Weitere Vorlagen:** nach Bedarf weitere Methoden aus den CAS-Unterlagen. Michi nennt die Reihenfolge.
+2. **Eintrag in der Lernmatrix:** Die fertigen Vorlagen können im Feld `sitzung.vorlagen` der Methoden eingetragen werden (Circle of Influence, Walt Disney, Wahrnehmungspositionen, Werteleiter, Ressourcen-Zeitlinie, Reframing). Dazu braucht es einen Link auf die Dateien in der Nextcloud und Michis Freigabe für Anna.
 
 ## Nicht geprüft
 
