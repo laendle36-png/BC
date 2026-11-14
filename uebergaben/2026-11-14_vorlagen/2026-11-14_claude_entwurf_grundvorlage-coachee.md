@@ -18,7 +18,7 @@ Der Circle of Influence liegt noch nicht als Vorlage vor. Michi findet ihn beson
 
 1. **Zwei Seiten mit verschiedenen Aufgaben.** Seite 1 ist die Arbeitsfläche, auf der der Coachee sammelt und ordnet. Seite 2 verdichtet: Kraft-Ressourcen holt die wichtigsten Post-its in ein Barometer, Inneres Team vertieft die Stimmen im Steckbrief.
 2. **Kopf.** Logo von Büchel Consulting oben rechts, Titel der Intervention, Datum oder Thema.
-3. **Kleine Einheiten statt Fließtext.** Post-its (Kraft-Ressourcen, 64 Pixel große Felder) oder Karten (Inneres Team), je ein Stichwort. Der Coachee schreibt, klebt und verschiebt.
+3. **Kleine Einheiten statt Fließtext.** Post-its (Kraft-Ressourcen, 64 Pixel große Felder) oder Karten (Inneres Team), je ein Stichwort. Der Coachee schreibt und verschiebt sie digital.
 4. **Farbe als Bedeutung.** Kraft-Ressourcen: Grün für Ressourcen, Rot für Stressoren, Gold für Schätze. Inneres Team: Ringe nach Lautstärke der Stimme.
 5. **Ein Anleitungssatz oben,** in der Sprache des Coachees („Pro Feld ein Post-it: Stichwort draufschreiben und aufkleben.“).
 6. **Keine Namen und keine Falldaten.** Nur Datum und Thema als Kürzel.
@@ -29,7 +29,7 @@ Der Circle of Influence liegt noch nicht als Vorlage vor. Michi findet ihn beson
 |---|---|---|
 | A Kopf | Logo, Titel der Intervention, Datum, Thema (Kürzel) | Titel in der Ich-Form („Mein …“), Platz für Datum und Thema |
 | B Anleitung | Ein Satz, was der Coachee tut | Höchstens ein Satz, ohne Fachbegriffe |
-| C Arbeitsfläche (Seite 1) | Bereiche mit Feldern für Post-its oder Karten | Feldgröße 64 Pixel, Abstand 82 Pixel, Rahmen mit abgerundeten Ecken |
+| C Arbeitsfläche (Seite 1) | Bereiche für Post-its oder Karten, frei gelassen | Keine gezeichneten Felder, der Coachee setzt Post-its digital |
 | D Verdichtung (Seite 2) | Die 3 bis 4 wichtigsten Einträge in ein Bild übertragen | Nur wenn die Intervention eine Auswahl braucht; sonst entfällt Seite 2 |
 | E Abschluss-Streifen | Erkenntnis in eigenen Worten, erster Schritt bis wann, Skala 1 bis 10 vorher und nachher | Passt zu den Feldern `skala_ein`, `skala_end` und Transfer im Sitzungsplan |
 | F Fuß | Quelle und Hinweis „Vorlage von Büchel Consulting“ | Kennzeichnung belegt oder unsicher nur im Coach-Exemplar, nicht auf dem Blatt des Coachees |
@@ -40,8 +40,8 @@ Der Circle of Influence liegt noch nicht als Vorlage vor. Michi findet ihn beson
 - Schrift: Helvetica (in Michis Datei), Titel 30 pt fett, Fließtext 11 bis 13 pt.
 - Farben: Dunkelblau `#1F2A44` für Text, Gold `#C9A227` für Akzente, Hellgrau-Blau `#E9EDF3`, Creme `#F3EAD0`, Grau `#5B6577` für Nebentexte.
 - Logo: vollständiges Büchel-Logo mit „CONSULTING“ (PNG, 3888 × 1088 Pixel), oben rechts, 6,4 cm breit. Datei: `CLAUDE OUTPUTS/2026-11-14_Coachee-Vorlagen/Logo_Buechel_Consulting_vollstaendig.png`. Die Logo-Datei in Michis Präsentation ist beschnitten (nur „BÜCHEL“) und wird nicht verwendet.
-- Post-it-Felder: weiße Quadrate mit gestrichelter Linie und abgerundeten Ecken, 1,4 bis 1,6 cm.
-- Karten (Seite 2): drei abgerundete Karten in Gold, Dunkelblau und Hellgrau-Blau, je mit Titel, Fragen und drei Feldern.
+- Post-its: keine gezeichneten Felder. Der Coachee setzt digitale Post-its in Goodnotes selbst (Entscheidung Michi). Die Arbeitsfläche bleibt frei.
+- Karten (Seite 2): drei abgerundete Karten in Gold, Dunkelblau und Hellgrau-Blau, je mit Titel und Fragen, mit freiem Platz für Post-its.
 
 ## Bausteine je Intervention (Umbau-Tabelle)
 
@@ -69,7 +69,7 @@ Die Datenbank hat je Methode das Feld `sitzung.vorlagen` (Liste, bisher überall
 
 ## Erste Vorlage: Circle of Influence (Entwurf liegt vor)
 
-Datei: `CLAUDE OUTPUTS/2026-11-14_Coachee-Vorlagen/Circle_of_Influence_Vorlage_Goodnotes.pptx` (und `.pdf`) in der Nextcloud. Inhalt von Michis Datei übernommen (drei Kreise mit Erklärtexten, drei Karten mit Fragen), dazu Datum und Thema, Post-it-Felder in allen Kreisen und auf den Karten, ein Abschluss-Streifen mit Erkenntnis, erstem Schritt und Skala 1 bis 10 vorher und nachher. In den CAS-Unterlagen und im Handbuch gibt es keine Quelle zum Circle of Influence. Michis Blatt ist die einzige Beschreibung.
+Datei: `CLAUDE OUTPUTS/2026-11-14_Coachee-Vorlagen/Circle_of_Influence_Vorlage_Goodnotes.pptx` (und `.pdf`) in der Nextcloud. Inhalt von Michis Datei übernommen (drei Kreise mit Erklärtexten, drei Karten mit Fragen), dazu Datum und Thema, ein Anleitungssatz zu den Post-its (ohne gezeichnete Felder), ein Abschluss-Streifen mit Erkenntnis, erstem Schritt und Skala 1 bis 10 vorher und nachher. In den CAS-Unterlagen und im Handbuch gibt es keine Quelle zum Circle of Influence. Michis Blatt ist die einzige Beschreibung.
 
 ## Noch offen
 
