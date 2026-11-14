@@ -73,9 +73,20 @@ Die Datenbank hat je Methode das Feld `sitzung.vorlagen` (Liste, bisher überall
 
 Datei: `CLAUDE OUTPUTS/2026-11-14_Coachee-Vorlagen/Circle_of_Influence_Vorlage_A4.pptx` (und `.pdf`) in der Nextcloud. Inhalt von Michis Datei übernommen (drei Kreise mit Erklärtexten, drei Karten mit Fragen), dazu Datum und Thema, ein Anleitungssatz zu den Post-its (ohne gezeichnete Felder), ein Abschluss-Streifen mit Erkenntnis, erstem Schritt und Skala 1 bis 10 vorher und nachher. In den CAS-Unterlagen und im Handbuch gibt es keine Quelle zum Circle of Influence. Michis Blatt ist die einzige Beschreibung.
 
+## Zweite Vorlage: Walt-Disney-Methode (Entwurf liegt vor)
+
+Datei: `CLAUDE OUTPUTS/2026-11-14_Coachee-Vorlagen/Walt_Disney_Methode_Vorlage_A4.pptx` (und `.pdf`) in der Nextcloud. Inhalt aus der CAS-Unterlage `B7_WaltDisneyMethode`, Fragen zusätzlich aus dem Fragenkatalog 4.16.
+
+- **Seite 1:** Feld für Ziel, Idee oder Vorhaben, darunter drei Karten für Träumer (Position 1), Realist (Position 2) und Kritiker (Position 3), je mit Rollenbeschreibung und Fragen. Hinweis zu den vier Plätzen im Raum.
+- **Seite 2:** Tabelle für drei Runden zum Abhaken je Rolle, Karte für Position 4 (neutral, Notizen und zwei Reflexionsfragen) und der Abschluss-Streifen, weil die Intervention mit einem nächsten Schritt aus der Realisten-Position endet.
+- **Fragen in Ich-Form:** Die Fragen aus dem Fragenkatalog (4.16, Du-Form) sind für das Blatt in die Ich-Form umformuliert. Wortlaut und Reihenfolge stammen aus der CAS-Unterlage (Schritte 8 bis 10) und dem Katalog.
+- **Reihenfolge der Rollen:** Die gedruckte CAS-Unterlage nennt Träumer, Realist, Kritiker. Die handschriftliche Mitschrift (`B7-Mitschriften`) nennt Träumer, Kritiker, Realist. Die Vorlage folgt der gedruckten Unterlage.
+- **Ausgewiesen als „Entwickelt von Robert Dilts“:** nach der CAS-Unterlage. Die Lernmatrix nennt Dilts als Person.
+
 ## Noch offen
 
-1. **Weitere Vorlagen:** Nächste Vorlagen: Walt-Disney-Methode und Wahrnehmungspositionen, Inhalt aus den CAS-Unterlagen (`B7_WaltDisneyMethode`, `B4_Wahrnehmungspositionen`).
+1. **Weitere Vorlagen:** Als Nächstes Wahrnehmungspositionen, Inhalt aus `B4_Wahrnehmungspositionen`. Danach nach Bedarf Werteleiter und Ressourcen-Timeline.
+2. **Reihenfolge der Rollen bei Walt Disney:** Bleibt es bei Träumer, Realist, Kritiker (gedruckte CAS-Unterlage) oder gilt deine Mitschrift (Träumer, Kritiker, Realist)?
 
 ## Nicht geprüft
 
