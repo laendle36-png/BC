@@ -59,14 +59,17 @@ Reihenfolge der Umsetzung (Vorschlag): Circle of Influence, Walt Disney, Wahrneh
 
 Die Datenbank hat je Methode das Feld `sitzung.vorlagen` (Liste, bisher überall leer). Die Reiter Vorbereitung und Sitzung zeigen es schon unter „Vorlagen und Grafiken“, mit Titel, Art und Link. Sobald eine Vorlage fertig ist, trägt Anna sie dort ein, nach Freigabe von Michi.
 
-## Offene Punkte für Michi
+## Entscheidungen Michi (14.11.2026, im Chat)
 
-1. **Stil:** Handschrift (Caveat) wie beim Kraft-Ressourcen-Modell, oder Fraunces und Inter wie beim Inneres Team? Ich empfehle Handschrift.
-2. **Circle of Influence:** Wie nutzt du ihn mit Coachees (zwei Kreise oder drei, welche Fragen, Ziel der Sitzung)? Herkunft laut Lernmatrix: Covey zugeschrieben, nicht belegt. Der Eintrag hat keinen Ablauf und keine Fragen. Die Vorlage würde die Herkunft nicht nennen, solange sie nicht belegt ist.
-3. **Leitfragen auf dem Blatt:** Sollen Fragen aus dem Fragenkatalog auf dem Blatt des Coachees stehen oder nur im Coach-Exemplar? Ich empfehle nur im Coach-Exemplar.
-4. **Abschluss-Streifen:** Soll er auf jedem Blatt stehen oder nur, wenn die Intervention mit einem Umsetzungsvorhaben endet?
-5. **Logo:** Ich brauche die Logo-Datei für neue Artifacts (die vorhandenen verweisen auf eine Datei in ihrem eigenen Speicher).
-6. **Einsatzform:** Goodnotes (A4 quer, wie Inneres Team) oder Flipchart (1400 × 1020, wie Kraft-Ressourcen)? Die Grundvorlage kann beide, aber ein Format als Standard spart Arbeit.
+1. **Stil:** Handschrift (Caveat), Farben und Gestaltungswerte wie beim Kraft-Ressourcen-Modell. Das Inneres-Team-Blatt wird später angeglichen.
+2. **Einsatzform:** Goodnotes, A4 quer. Die Pixelmaße oben (1400 × 1020) gelten als Seitenverhältnis-Vorbild und werden auf A4 quer umgerechnet (1,414 : 1).
+3. **Leitfragen:** nur im Coach-Exemplar, nicht auf dem Blatt des Coachees.
+
+## Noch offen
+
+1. **Circle of Influence:** Wie nutzt du ihn mit Coachees (zwei Kreise oder drei, welche Fragen, Ziel der Sitzung)? Herkunft laut Lernmatrix: Covey zugeschrieben, nicht belegt. Der Eintrag hat keinen Ablauf und keine Fragen. Die Vorlage würde die Herkunft nicht nennen, solange sie nicht belegt ist.
+2. **Abschluss-Streifen:** Auf jedem Blatt oder nur, wenn die Intervention mit einem Umsetzungsvorhaben endet?
+3. **Logo:** Ich brauche die Logo-Datei für neue Artifacts (die vorhandenen verweisen auf eine Datei in ihrem eigenen Speicher).
 
 ## Nicht geprüft
 
