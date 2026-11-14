@@ -1,13 +1,13 @@
 ---
-status: zur Freigabe
+status: gültig (bestätigt durch Michi am 14.11.2026)
 von: claude
-an: michi, helga
+an: alle Rollen
 datum: 2026-11-14
 ersetzt: 00_INDEX.md (v10)
 bezug: uebergaben/_freigabe/2026-11-14_claude_vermerk_rollen-werkzeuge-uebergaben.md
 ---
 
-# Übergaben-Index (v11, Vorschlag)
+# Übergaben-Index (v11)
 
 Erste Datei, die eine Rolle liest, bevor sie in `uebergaben` arbeitet. Der Index sagt, wer zuständig ist, wo die Posteingänge liegen und wer was lesen und schreiben darf. Die Regeln (Dateiname, Kopfzeile, Status, Freigabe) stehen in `README.md`.
 

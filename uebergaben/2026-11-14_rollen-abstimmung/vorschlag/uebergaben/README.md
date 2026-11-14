@@ -1,6 +1,6 @@
 # uebergaben: Regeln
 
-Stand: Vorschlag 14.11.2026. Diese Datei regelt das Wie. Wer zuständig ist, wo die Posteingänge liegen und wer was lesen und schreiben darf, steht in `00_INDEX.md`. Rollen-Dateien wiederholen diese Regeln nicht, sie verweisen hierher.
+Stand: 14.11.2026, bestätigt durch Michi. Diese Datei regelt das Wie. Wer zuständig ist, wo die Posteingänge liegen und wer was lesen und schreiben darf, steht in `00_INDEX.md`. Rollen-Dateien wiederholen diese Regeln nicht, sie verweisen hierher.
 
 ## 1. Wohin mit einer Datei
 
