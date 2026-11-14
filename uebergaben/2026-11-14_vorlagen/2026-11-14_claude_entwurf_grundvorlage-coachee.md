@@ -102,10 +102,21 @@ Datei: `CLAUDE OUTPUTS/2026-11-14_Coachee-Vorlagen/Werteleiter_Vorlage_A4.pptx` 
 - **Die Fragen stammen aus der CAS-Unterlage** (Schritte 2, 4, 5), in Ich-Form umgeschrieben. Die Fragen aus dem Fragenkatalog 4.2 (Werte im Widerspruch, ein Wert zu wenig gelebt) stehen nicht auf dem Blatt, sie bleiben im Coach-Exemplar.
 - **Fünf Sprossen:** Die Unterlage nennt keine Zahl. Sie bearbeitet die Ränge 1 bis 3. Der Fragenkatalog nennt fünf bis zehn Werte. Fünf Sprossen sind meine Wahl.
 
+## Fünfte Vorlage: Ressourcen-Zeitlinie (Entwurf liegt vor)
+
+Datei: `CLAUDE OUTPUTS/2026-11-14_Coachee-Vorlagen/Ressourcen_Zeitlinie_Vorlage_A4.pptx` (und `.pdf`). Inhalt aus der CAS-Unterlage `B3_Ressourcen-Zeitlinie` (Punkte N, G, Z, V und sieben Schritte), Fragen zusätzlich aus dem Fragenkatalog 4.3.
+
+- **Seite 1:** Feld für das Ziel (Zielbild ohne Kontext), darunter sechs Stationen entlang der Zeitlinie: V…, V3, V2, V1, G (Gegenwart) und Z (Zukunft), dazu der neutrale Punkt N über G. Jede Station hat Platz für Post-its und eine Frage.
+- **Seite 2:** Karte „Meine Schätze“ (Schritt 5), Karte „Von G zum Ziel Z“ (Schritt 6), Karte „System-Check“ (Schritt 7) und der Abschluss-Streifen.
+- **Fragen:** Die Unterlage enthält keine Fragen, nur die Leitfrage „Welche Fähigkeiten, Kräfte hatte ich wann und wie in meiner Biografie?“ (Untertitel) und die Schritte. Die Fragen auf dem Blatt habe ich aus den Schritten und dem Fragenkatalog 4.3 in Ich-Form formuliert. Das sind meine Formulierungen.
+- **System-Check:** Die Unterlage nennt ihn nur als Stichwort. „Passt das Ergebnis zu meinem Gesamtsystem?“ ist meine Formulierung nach der Beschreibung in der Lernmatrix.
+- **Die Zeitlinie liegt waagerecht** (links Vergangenheit, rechts Zukunft). Die Unterlage zeichnet sie senkrecht (Z oben, V unten). Das ist eine Anpassung an das Querformat.
+- Die Unterlage ist für die Arbeit am Boden gedacht (Bodenanker, Gehen). Das Blatt begleitet das, ersetzt es nicht.
+
 ## Noch offen
 
-1. **Weitere Vorlagen:** nach Bedarf Ressourcen-Timeline oder Reframing (Inhalt aus den CAS-Unterlagen). Michi nennt die Reihenfolge.
-2. **Eintrag in der Lernmatrix:** Die fertigen Vorlagen können im Feld `sitzung.vorlagen` der Methoden eingetragen werden (Circle of Influence, Walt Disney, Wahrnehmungspositionen, Werteleiter). Dazu braucht es einen Link auf die Dateien in der Nextcloud und Michis Freigabe für Anna.
+1. **Weitere Vorlagen:** nach Bedarf Reframing oder weitere Methoden (Inhalt aus den CAS-Unterlagen). Michi nennt die Reihenfolge.
+2. **Eintrag in der Lernmatrix:** Die fertigen Vorlagen können im Feld `sitzung.vorlagen` der Methoden eingetragen werden (Circle of Influence, Walt Disney, Wahrnehmungspositionen, Werteleiter, Ressourcen-Zeitlinie). Dazu braucht es einen Link auf die Dateien in der Nextcloud und Michis Freigabe für Anna.
 
 ## Nicht geprüft
 
