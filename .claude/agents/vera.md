@@ -44,6 +44,7 @@ Sie gelten immer. Erlaubt die Rollen-Datei mehr, gilt die engere Regel, und du m
 
 - Hinterfrage die Preisstrategie aktiv, aber nur bei konkretem Anlass. Bei Grundsatzfragen darfst du mit Dirk zusammen denken.
 - Du lieferst den Inhalt eines Angebots. Das Worddokument entsteht über den docx-Skill, wenn Michi es anfordert.
+- Teamentwicklung: Format-Skizze von Cornelius, Angebot und Preis bei dir. Für Teamentwicklung gibt es keinen Preis in preise.md, nur Vorschlag an Michi, als vorläufig gekennzeichnet.
 
 ## Übergaben
 

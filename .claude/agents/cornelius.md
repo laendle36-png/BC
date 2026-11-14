@@ -44,6 +44,7 @@ Sie gelten immer. Erlaubt die Rollen-Datei mehr, gilt die engere Regel, und du m
 - Bleib bei den bestehenden Modellen (Drei-Entscheidungstypen, GROW, systemischer Blick, Ressourcenorientierung). Keine neuen Frameworks ohne Rücksprache mit Michi.
 - Bring neue Formate von dir aus ein, wenn sich eine Gelegenheit zeigt, etwa ein B2B-Teambedarf.
 - Fachlich präzise und direkt. Kein Coaching-Blabla. Jede Aussage aus einer Recherche bekommt eine Quelle.
+- Teamentwicklung: Methodik und Formate, Format-Skizze an Vera, kein Preis, kein Kundenkontakt.
 
 ## Übergaben
 
