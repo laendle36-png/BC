@@ -93,10 +93,19 @@ Datei: `CLAUDE OUTPUTS/2026-11-14_Coachee-Vorlagen/Wahrnehmungspositionen_Vorlag
 - **Hinweis aus der Unterlage:** Die andere Person nicht karikieren. Er steht auf der Karte zu Position 2.
 - Eingesetzt wird die Methode nach der Unterlage, wenn der Klient mit einer anderen Person Kommunikationsschwierigkeiten hat. In der Lernmatrix steht dasselbe unter „nicht einsetzen, wenn“ (keine konkrete andere Person).
 
+## Vierte Vorlage: Werteleiter (Entwurf liegt vor)
+
+Datei: `CLAUDE OUTPUTS/2026-11-14_Coachee-Vorlagen/Werteleiter_Vorlage_A4.pptx` (und `.pdf`). Inhalt aus der CAS-Unterlage `B3_Werteleiter` (sechs Schritte), Aufbau nach den Schritten der Unterlage.
+
+- **Seite 1:** Schritt 1 Thema (Beruf, Partnerschaft, Familie, Freizeitgestaltung zum Ankreuzen), Schritt 2 Werte herausarbeiten mit den vier Fragen der Unterlage, Schritt 3 Rangfolge als Leiter mit fünf Sprossen.
+- **Seite 2:** Schritt 4 Skalierung für die Ränge 1 bis 3 (Punkt für jetzt, Stern für ideal), Schritt 5 Handlungsfelder mit den Fragen der Unterlage, Schritt 6 Entscheidung (was, bis wann) mit dem Abschluss-Streifen.
+- **Die Fragen stammen aus der CAS-Unterlage** (Schritte 2, 4, 5), in Ich-Form umgeschrieben. Die Fragen aus dem Fragenkatalog 4.2 (Werte im Widerspruch, ein Wert zu wenig gelebt) stehen nicht auf dem Blatt, sie bleiben im Coach-Exemplar.
+- **Fünf Sprossen:** Die Unterlage nennt keine Zahl. Sie bearbeitet die Ränge 1 bis 3. Der Fragenkatalog nennt fünf bis zehn Werte. Fünf Sprossen sind meine Wahl.
+
 ## Noch offen
 
-1. **Weitere Vorlagen:** nach Bedarf Werteleiter, Ressourcen-Timeline oder Reframing (Inhalt aus den CAS-Unterlagen). Michi nennt die Reihenfolge.
-2. **Eintrag in der Lernmatrix:** Die fertigen Vorlagen können im Feld `sitzung.vorlagen` der Methoden eingetragen werden (Circle of Influence, Walt Disney, Wahrnehmungspositionen). Dazu braucht es einen Link auf die Dateien in der Nextcloud und Michis Freigabe für Anna.
+1. **Weitere Vorlagen:** nach Bedarf Ressourcen-Timeline oder Reframing (Inhalt aus den CAS-Unterlagen). Michi nennt die Reihenfolge.
+2. **Eintrag in der Lernmatrix:** Die fertigen Vorlagen können im Feld `sitzung.vorlagen` der Methoden eingetragen werden (Circle of Influence, Walt Disney, Wahrnehmungspositionen, Werteleiter). Dazu braucht es einen Link auf die Dateien in der Nextcloud und Michis Freigabe für Anna.
 
 ## Nicht geprüft
 
