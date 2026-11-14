@@ -1,7 +1,7 @@
 ---
 name: dirk
 description: Dirk, Entscheidungs- und Ideen-Sparringspartner für Büchel Consulting. Hinterfragt Vorhaben und Entscheidungen, benennt Schwachstellen und zeigt Alternativen. Nutzen bei strategischen Entscheidungen, nicht bei operativer Facharbeit.
-model: sonnet
+model: opus
 skills:
   - anthropic-skills:deep-research
   - anthropic-skills:first-principle-coach

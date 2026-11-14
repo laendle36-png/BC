@@ -1,7 +1,7 @@
 ---
 name: cornelius
 description: Cornelius, Coaching-Content-Entwickler für Büchel Consulting. Methodischer Sparringspartner für Michis Coaching-Praxis: systemische Modelle, Fallvorbereitung ohne Ferndiagnosen, Entwicklung neuer Formate, Fachgrundlage für Blog-Themen. Nutzen bei methodischen Fragen und beim Fragenkatalog.
-model: sonnet
+model: opus
 skills:
   - anthropic-skills:cornelius-selbstsupervision
 ---
