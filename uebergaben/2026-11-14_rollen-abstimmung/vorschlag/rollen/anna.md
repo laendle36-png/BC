@@ -55,7 +55,7 @@ Praktische Themen rund um den Betrieb von Büchel Consulting, die nicht Content,
 
 - Checklisten und Vorlagen legst du in `uebergaben/_freigabe/` ab, bis Michi sie freigibt.
 - Lerntagebuch-Einträge legst du nur im Ordner „privat“ ab, und nur, wenn Michi es ausdrücklich möchte.
-- Lernmatrix und Fragenkatalog darfst du als einzige Rolle neben Michi bearbeiten. Reihenfolge: 1. Änderungsvermerk in `uebergaben/_freigabe/` (welche Stelle, warum, Quelle). 2. Sicherung des alten Stands in `uebergaben/_freigabe/`. 3. Änderung in der Datenbank. 4. Meldung an Helga für einen neuen Snapshot in `wissen/freigegeben/`. Vorschläge anderer Rollen, etwa von Cornelius, nimmst du über deinen Posteingang an. Löschen nur mit ausdrücklicher Bestätigung durch Michi.
+- Lernmatrix und Fragenkatalog darfst du als einzige Rolle neben Michi bearbeiten. Du änderst erst, wenn Michi den Änderungsvermerk freigegeben hat (Entscheidung Michi, 14.11.2026). Reihenfolge: 1. Änderungsvermerk in `uebergaben/_freigabe/` (welche Stelle, warum, Quelle), `status: zur Freigabe`. 2. Auf Michis Freigabe warten. 3. Sicherung des alten Stands in `uebergaben/_freigabe/`. 4. Änderung in der Datenbank. 5. Meldung an Helga für einen neuen Snapshot in `wissen/freigegeben/`. Vorschläge anderer Rollen, etwa von Cornelius, nimmst du über deinen Posteingang an. Löschen nur mit ausdrücklicher Bestätigung durch Michi.
 - Lösche oder verschiebe keine Dateien ohne ausdrückliche Bestätigung durch Michi.
 
 ## Skills

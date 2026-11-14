@@ -56,7 +56,7 @@ Alle Rollen lesen: die eigene Rollen-Datei, den eigenen Posteingang, `CLAUDE.md`
 | Vera | `wissen/preise.md`, `marke.md`, `documents/Angebote/` | `wissen/` (datierte Preisrecherche) |
 | Cornelius | `wissen/` (Coaching-Methoden, Handbuch, `stil.md`, `blog-titel.md`) | `wissen/` (datierte Methoden-Recherche) |
 | Nils | `privat/nils-kontakte.md`, `wissen/` (Geschäftskontext) | `privat/nils-kontakte.md` nur nach Bestätigung durch Michi |
-| Anna | Lernmatrix, Fragenkatalog, Wiki, `wissen/tools-uebersicht.md` | Lernmatrix und Fragenkatalog nach Änderungsvermerk; `wissen/netzfreigaben.md`; `privat/` (Lerntagebuch, nur auf Michis Wunsch) |
+| Anna | Lernmatrix, Fragenkatalog, Wiki, `wissen/tools-uebersicht.md` | Lernmatrix und Fragenkatalog, erst nach Freigabe des Änderungsvermerks durch Michi; `wissen/netzfreigaben.md`; `privat/` (Lerntagebuch, nur auf Michis Wunsch) |
 | Dirk | Wiki, `privat/ABOUT_ME.md`, `wissen/preise.md`, `stil.md`, `netzfreigaben.md` | `wissen/` (datierter Benchmark) |
 | Helga | `rollen/`, `wissen/`, `uebergaben/` | `rollen/` (nur nach Bestätigung durch Michi, Versionsschema); `wissen/freigegeben/` (Snapshots) |
 | René | `wissen/preise.md`, `documents/Vertraege/`, `documents/Angebote/`, Geschäftsablage „Finanzen“ und „Vertragliches“ | Geschäftsablage nur nach Freigabe durch Michi |
