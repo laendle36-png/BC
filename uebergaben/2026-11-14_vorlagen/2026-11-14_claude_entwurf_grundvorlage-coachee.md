@@ -73,20 +73,30 @@ Die Datenbank hat je Methode das Feld `sitzung.vorlagen` (Liste, bisher überall
 
 Datei: `CLAUDE OUTPUTS/2026-11-14_Coachee-Vorlagen/Circle_of_Influence_Vorlage_A4.pptx` (und `.pdf`) in der Nextcloud. Inhalt von Michis Datei übernommen (drei Kreise mit Erklärtexten, drei Karten mit Fragen), dazu Datum und Thema, ein Anleitungssatz zu den Post-its (ohne gezeichnete Felder), ein Abschluss-Streifen mit Erkenntnis, erstem Schritt und Skala 1 bis 10 vorher und nachher. In den CAS-Unterlagen und im Handbuch gibt es keine Quelle zum Circle of Influence. Michis Blatt ist die einzige Beschreibung.
 
-## Zweite Vorlage: Walt-Disney-Methode (Entwurf liegt vor)
+## Zweite Vorlage: Walt-Disney-Methode (Entwurf liegt vor, nach Michis Mitschrift)
 
-Datei: `CLAUDE OUTPUTS/2026-11-14_Coachee-Vorlagen/Walt_Disney_Methode_Vorlage_A4.pptx` (und `.pdf`) in der Nextcloud. Inhalt aus der CAS-Unterlage `B7_WaltDisneyMethode`, Fragen zusätzlich aus dem Fragenkatalog 4.16.
+Datei: `CLAUDE OUTPUTS/2026-11-14_Coachee-Vorlagen/Walt_Disney_Methode_Vorlage_A4.pptx` (und `.pdf`). Grundlage ist Michis handschriftliche Mitschrift (`B7-Mitschriften`, Seite 7) und die CAS-Unterlage `B7_WaltDisneyMethode`. Michi hat die Reihenfolge der Mitschrift gewählt (14.11.).
 
-- **Seite 1:** Feld für Ziel, Idee oder Vorhaben, darunter drei Karten für Träumer (Position 1), Realist (Position 2) und Kritiker (Position 3), je mit Rollenbeschreibung und Fragen. Hinweis zu den vier Plätzen im Raum.
-- **Seite 2:** Tabelle für drei Runden zum Abhaken je Rolle, Karte für Position 4 (neutral, Notizen und zwei Reflexionsfragen) und der Abschluss-Streifen, weil die Intervention mit einem nächsten Schritt aus der Realisten-Position endet.
-- **Fragen in Ich-Form:** Die Fragen aus dem Fragenkatalog (4.16, Du-Form) sind für das Blatt in die Ich-Form umformuliert. Wortlaut und Reihenfolge stammen aus der CAS-Unterlage (Schritte 8 bis 10) und dem Katalog.
-- **Reihenfolge der Rollen:** Die gedruckte CAS-Unterlage nennt Träumer, Realist, Kritiker. Die handschriftliche Mitschrift (`B7-Mitschriften`) nennt Träumer, Kritiker, Realist. Die Vorlage folgt der gedruckten Unterlage.
-- **Ausgewiesen als „Entwickelt von Robert Dilts“:** nach der CAS-Unterlage. Die Lernmatrix nennt Dilts als Person.
+- **Reihenfolge und Begriffe nach der Mitschrift:** Träumerraum, Skeptikerraum (Kritiker und Skeptiker, Stolpersteine, Gefahren, Risiken, Warnzeichen), Realistenraum (ZDF, was ist umsetzbar), dazu der neutrale Platz N mit Anker (Bewertung offen halten).
+- **Seite 1:** Kreis mit drei Sektoren und neutralem Kreis N in der Mitte, wie auf dem Flipchart-Foto der Mitschrift. Rechts ein Feld für das Ziel und drei Erklärtexte je Raum, verbunden mit dem Kreis.
+- **Seite 2:** Tabelle für drei Runden zum Abhaken je Raum, Karte für den neutralen Platz mit zwei Reflexionsfragen (aus dem Fragenkatalog 4.16, in Ich-Form) und Abschluss-Streifen mit dem nächsten Schritt aus dem Realistenraum.
+- **ZDF:** Ich lese die Abkürzung aus der Mitschrift als Zahlen, Daten, Fakten. Das ist meine Lesart, in der Mitschrift steht nur die Abkürzung.
+- **Unterschied zur gedruckten CAS-Unterlage:** Sie nennt die Reihenfolge Träumer, Realist, Kritiker und die Positionen 1 bis 4 mit Boden-Ankern. Die Vorlage folgt stattdessen der Mitschrift.
+- **Dilts:** Der Untertitel nennt Robert Dilts als Entwickler, nach der CAS-Unterlage.
+
+## Dritte Vorlage: Wahrnehmungspositionen (Entwurf liegt vor)
+
+Datei: `CLAUDE OUTPUTS/2026-11-14_Coachee-Vorlagen/Wahrnehmungspositionen_Vorlage_A4.pptx` (und `.pdf`). Inhalt aus der CAS-Unterlage `B4_Wahrnehmungspositionen`, Frage zu Position 2 aus dem Fragenkatalog 4.12.
+
+- **Seite 1:** Feld für Thema und Situation mit der anderen Person, darunter vier Karten: Position 1 Ich, Position 2 die andere Person, Position 3 freundlicher Beobachter, Position 4 neutral. Die Fragen stammen aus den Schritten 3 bis 5 der Unterlage.
+- **Seite 2:** Karte „Mein neues Verhalten“ (Schritt 6), Prüfkarte mit drei Häkchen für Position 1, 2 und 3 (Schritt 6), Hinweis auf Wiederholung bis zu einem versöhnten Gefühl, Abschluss-Streifen mit der Gelegenheit zum Ausprobieren (Schritt 7).
+- **Hinweis aus der Unterlage:** Die andere Person nicht karikieren. Er steht auf der Karte zu Position 2.
+- Eingesetzt wird die Methode nach der Unterlage, wenn der Klient mit einer anderen Person Kommunikationsschwierigkeiten hat. In der Lernmatrix steht dasselbe unter „nicht einsetzen, wenn“ (keine konkrete andere Person).
 
 ## Noch offen
 
-1. **Weitere Vorlagen:** Als Nächstes Wahrnehmungspositionen, Inhalt aus `B4_Wahrnehmungspositionen`. Danach nach Bedarf Werteleiter und Ressourcen-Timeline.
-2. **Reihenfolge der Rollen bei Walt Disney:** Bleibt es bei Träumer, Realist, Kritiker (gedruckte CAS-Unterlage) oder gilt deine Mitschrift (Träumer, Kritiker, Realist)?
+1. **Weitere Vorlagen:** nach Bedarf Werteleiter, Ressourcen-Timeline oder Reframing (Inhalt aus den CAS-Unterlagen). Michi nennt die Reihenfolge.
+2. **Eintrag in der Lernmatrix:** Die fertigen Vorlagen können im Feld `sitzung.vorlagen` der Methoden eingetragen werden (Circle of Influence, Walt Disney, Wahrnehmungspositionen). Dazu braucht es einen Link auf die Dateien in der Nextcloud und Michis Freigabe für Anna.
 
 ## Nicht geprüft
 
