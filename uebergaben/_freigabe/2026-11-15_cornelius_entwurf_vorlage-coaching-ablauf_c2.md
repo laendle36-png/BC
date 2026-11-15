@@ -89,14 +89,18 @@ Bestehend: `rahmen` (bezahlt oder Übungsfall), `rolle`.
 
 Eigener Reiter mit Leitfaden, Timer und Verknüpfungen zu Vorbereitung, Sitzung und Protokoll sowie zu den Methoden Auftragsklärung und Kontrakt, Ordnungsmodell der Auftragstypen, systemische Fragetechniken, lösungsorientierte Beratung und Wunderfrage, Zielarbeit mit Prüfkriterien (Lernmatrix).
 
-| Abschnitt | Min | Checkliste | Felder |
+Zweispaltig: sechs Abschnitte, je ein Paar aus Fragen und Checkliste (links) und Feldern (rechts).
+
+| Abschnitt | Min | links: Fragen und Checkliste | rechts: Felder |
 |---|---|---|---|
-| Einstieg und Rahmen | 3 | Begrüßung, Technik-Check, Anrede; `EG` 1 bis 3 (Rolle, Doppelrollen; Vertraulichkeit, Freiwilligkeit; Einwilligung bei Übungsfall) | `plan.rahmen`, `plan.rolle` |
-| Anlass | 3 | „Was hat dich dazu bewogen, gerade jetzt ein Coaching zu beginnen?“ (1.1) | `warm.anliegen`, `warm.warumjetzt` |
-| Ziel und grobe Skala | 3 | „Woran würdest du merken, dass es besser ist?“ (docx, 1.3); „Wo stehst du heute, von 0 bis 10?“ (1.3) | `warm.ziel` (in eigenen Worten), `warm.skala_ein` (grob) |
-| Passung und Abgrenzung | 2 | Kriterien aus der docx (siehe unten) | `warm.abgrenz` (Notizen zur Passung) |
-| Paket | 3 | Pakete vorstellen und wählen (Schritt 4), `EG` 4 (Zeitrahmen, Termine), Termin der ersten Einheit | `plan.paket`, `plan.paket_begruendung`, `plan.bedenkzeit` |
-| Abschluss | 1 | „Passt die Richtung?“, kleine Frage bis zum ersten Termin (docx) | `abschluss.haus` |
+| 1 Einstieg und Rahmen | 3 | Begrüßung, Technik-Check, Anrede; `EG` 1 bis 3 (Rolle, Doppelrollen; Vertraulichkeit, Freiwilligkeit; Einwilligung bei Übungsfall) | `plan.rahmen`, `plan.rolle` |
+| 2 Anlass | 3 | Fragen 1.1, u. a. „Was hat dich dazu bewogen, gerade jetzt ein Coaching zu beginnen?“ | `warm.anliegen`, `warm.warumjetzt`; aufklappbar „Aus dem Vorabkontakt (optional)“: `plan.vorab_anlass`, `plan.vorab_hypothesen` |
+| 3 Ziel und grobe Skala | 3 | Fragen 1.3, u. a. „Woran würdest du merken, dass es besser ist?“ (docx); „Wo stehst du heute, von 0 bis 10?“ | `warm.ziel` (in eigenen Worten), `warm.skala_ein` (grob) |
+| 4 Passung und Abgrenzung | 2 | Kriterien aus der docx (siehe unten) | `warm.abgrenz` (Notizen zur Passung), `plan.vorab_hinweise` |
+| 5 Paket | 3 | Pakete vorstellen und wählen (Schritt 4), `EG` 4 (Zeitrahmen, Termine), Termin der ersten Einheit | `plan.paket_hypothese`, `plan.paket`, `plan.paket_begruendung`, `plan.bedenkzeit` |
+| 6 Abschluss | 1 | „Passt die Richtung?“, kleine Frage bis zum ersten Termin (docx) | `abschluss.haus` |
+
+Der Abschnitt Paket mit der Paketwahl steht nur in diesem Reiter.
 
 Im Erstgespräch gibt es keine Bewertung. Beobachtungen und Hinweise zur Passung stehen im Feld `warm.abgrenz`. System, Ressourcen, Werte, Erwartungen und die genaue Auftragsklärung kommen ins erste Kerncoaching (Schritt 5).
 
@@ -134,7 +138,15 @@ Kandidatenliste im Reiter Vorbereitung, Feld `plan.kandidaten` (Liste), je Eintr
 - `wegfall` (Bedingung, unter der sie entfällt)
 - `status` (vorläufig, bestätigt, verworfen)
 
-Bestehend im Reiter Sitzung: `inter.prozess` (z. B. GROW), `inter.warum` (endgültige Wahl), `inter.nichtangewandt`. Arbeitsblätter zur Methode über `sitzung.vorlagen` (Grundvorlage Coachee).
+Im Reiter Sitzung, Phase Intervention, zweispaltig:
+
+| Block | links | rechts |
+|---|---|---|
+| Methode und Auswahl | Unterlagen der Methode noch einmal prüfen | `inter.prozess` (z. B. GROW), `inter.warum` (endgültige Wahl), `inter.nichtangewandt` |
+| Ablauf der Intervention | Schritte der Methode als Checkliste | Wirkung (gut, mittel, schwierig), Notizen |
+| Leitfragen n (je Fragengruppe der Methode) | Fragen der Gruppe n aus dem Fragenkatalog | Notizfeld `inter|<Fragen-Nr>`, erscheint im Protokoll |
+
+Arbeitsblätter zur Methode über `sitzung.vorlagen` (Grundvorlage Coachee).
 
 ### Schritt 4: Paketwahl
 
@@ -144,6 +156,10 @@ Felder in `plan`:
 - `paket` (Auswahl): 1, 3 oder 5 Coachingeinheiten mit den Namen laut Homepage
 - `paket_begruendung` (t): warum dieses Paket. Vergleich mit `paket_hypothese` aus Schritt 0, falls vorhanden.
 - `bedenkzeit` (s): Bedenkzeit bis (aus der docx)
+
+Nach der Wahl:
+- Beim Anlegen einer Folgesitzung wird `plan.paket` aus der vorigen Sitzung übernommen.
+- Im Reiter Sitzung gibt es keinen Abschnitt Paket. Am Anfang des Warm-ups steht die Erinnerung „Paket im Erstgespräch besprochen: …, Einheit x“, dieselbe im Reiter Vorbereitung bei allen Sitzungsarten außer Erstgespräch.
 
 ### Schritt 5: Sitzungsplan je Paket
 
@@ -158,12 +174,19 @@ Jedes Paket: Erstgespräch (15 Min) → Coachingeinheiten (je ca. 90 Min) → Na
 
 Methoden mit dem Hinweis „frühestens in der Mitte des Coachings“ (z. B. Kraftressourcen-Modell) erst ab Einheit 2 (3er-Paket) bzw. Einheit 3 (5er-Paket).
 
-**Klärung im ersten Kerncoaching** (Warm-up und Goal/Reality nach docx, rund 25 bis 30 Min der 90 Min):
-- Check-in: „Darf ich dich herausfordern?“, „Gibt es Tabu-Themen?“ (docx)
-- Auftragsklärung und Kontrakt, Auftragstyp nach dem Ordnungsmodell (1.3)
-- System und Rolle, Ressourcen und Ausnahmen, Werte, Erwartungen
-- Veränderungsbereitschaft (1.7)
-- Danach Reiter Bewertung (Schritt 2) und Kandidatenliste bestätigen (Schritt 3).
+**Klärung im ersten Kerncoaching** (Warm-up und Goal/Reality nach docx, rund 25 bis 30 Min der 90 Min). Nach der Paket-Erinnerung folgt das Warm-up zweispaltig in fünf Blöcken:
+
+| Block | links: Fragen und Checkliste | rechts: Felder |
+|---|---|---|
+| 1 Ankommen, Rahmen und Rückblick | Check-in, Rahmen, Rückblick; „Darf ich dich herausfordern?“, „Gibt es Tabu-Themen?“ (docx) | `warm.rueck`, `warm.skala_ein` |
+| 2 Anliegen und Ziel | Fragen 1.1 und 1.3 | `warm.anliegen`, `warm.warumjetzt`, `warm.ziel` |
+| 3 Auftrag und Kontrakt | Auftragsklärung, Auftragstyp nach dem Ordnungsmodell | `warm.auftraggeber`, `warm.vertrag`, `warm.auftragstyp`, `warm.abgrenz` |
+| 4 System, Ressourcen, Werte, Erwartungen | Fragen 1.2, 2.4 und 2.6 | `warm.system`, `warm.ressourcen`, `warm.werte`, `warm.erwartungen` |
+| 5 Bereitschaft und Methode | Fragen 1.7, Methode klären | `warm.bereitschaft` |
+
+Danach Reiter Bewertung (Schritt 2) und Kandidatenliste bestätigen (Schritt 3).
+
+Folgetermin, Abschlusstermin, Follow-up sowie die Phasen Transfer und Abschluss behalten die bisherige Aufteilung: Fragen und Ablauf links, Felder und Notizen rechts.
 
 Felder in `warm` (nur bei der Sitzungsart Kerncoaching):
 - `system` (t): Wer gehört noch dazu (Rollen, keine Namen), welche Erwartungen kommen von außen? (1.2)
@@ -173,7 +196,7 @@ Felder in `warm` (nur bei der Sitzungsart Kerncoaching):
 - `bereitschaft` (s): Veränderungsbereitschaft 0–10, dazu Gründe für und gegen Veränderung (1.7)
 - `auftragstyp` (s): Kunde, Klagender oder Besucher nach dem Ordnungsmodell der Auftragstypen (Lernmatrix)
 
-Bestehend und hier genutzt: `warm.auftraggeber`, `warm.vertrag`, `warm.ziel` (geschärft, z. B. SMART nach docx).
+Bestehend und hier genutzt: `warm.rueck`, `warm.skala_ein`, `warm.anliegen`, `warm.warumjetzt`, `warm.auftraggeber`, `warm.vertrag`, `warm.abgrenz`, `warm.ziel` (geschärft, z. B. SMART nach docx).
 
 In `plan`: `sitzungsnr` als „Einheit x von n“ (n aus `paket`). Erstgespräch und Nachbesprechung ohne Nummer.
 
@@ -208,9 +231,10 @@ Selbstreflexion optional mit dem Skill `cornelius-selbstsupervision`, Fragen aus
 
 | Reiter | Felder (neu oder geändert gegenüber dem ursprünglichen Sitzungsplan) |
 |---|---|
-| Vorbereitung (`plan`) | `vorab_anlass`, `vorab_hypothesen`, `vorab_hinweise`, `paket_hypothese`, `paket`, `paket_begruendung`, `bedenkzeit`, `kandidaten` (Liste), `sitzungsnr` als „Einheit x von n“ |
-| Erstgespräch | Leitfaden mit sechs Abschnitten und Minuten, Timer; nutzt `plan.rahmen`, `plan.rolle`, `warm.anliegen`, `warm.warumjetzt`, `warm.ziel`, `warm.skala_ein`, `warm.abgrenz`, `plan.paket`, `abschluss.haus`; `EG` 1 bis 4 |
-| Sitzung, `warm` (Kerncoaching) | `system`, `ressourcen`, `werte`, `erwartungen`, `bereitschaft`, `auftragstyp`; ab Einheit 2 `zwischen_hinweise` |
+| Vorbereitung (`plan`) | `vorab_anlass`, `vorab_hypothesen`, `vorab_hinweise`, `paket_hypothese`, `paket`, `paket_begruendung`, `bedenkzeit`, `kandidaten` (Liste), `sitzungsnr` als „Einheit x von n“; Paket-Erinnerung außer beim Erstgespräch; `paket` wird in Folgesitzungen übernommen |
+| Erstgespräch | Leitfaden zweispaltig, sechs Abschnitte mit Minuten, Timer; nutzt `plan.rahmen`, `plan.rolle`, `warm.anliegen`, `warm.warumjetzt`, `plan.vorab_anlass`, `plan.vorab_hypothesen`, `warm.ziel`, `warm.skala_ein`, `warm.abgrenz`, `plan.vorab_hinweise`, `plan.paket_hypothese`, `plan.paket`, `plan.paket_begruendung`, `plan.bedenkzeit`, `abschluss.haus`; `EG` 1 bis 4; einziger Ort der Paketwahl |
+| Sitzung, `warm` (Kerncoaching) | Paket-Erinnerung; fünf Blöcke zweispaltig; neu `system`, `ressourcen`, `werte`, `erwartungen`, `bereitschaft`, `auftragstyp`; ab Einheit 2 `zwischen_hinweise` |
+| Sitzung, `inter` | Blöcke Methode und Auswahl, Ablauf der Intervention, Leitfragen n; Notiz-Schlüssel `inter|<Fragen-Nr>` (im Protokoll) |
 | Sitzung, `transfer` | `beobachtungsaufgabe`, `erkennung` |
 | Sitzung, `abschluss` | `auswertung`, `followup` |
 | Bewertung (nur Kerncoaching) | `beobachtung`, `hypothesen`, `offene_fragen`, `jenseits` |
