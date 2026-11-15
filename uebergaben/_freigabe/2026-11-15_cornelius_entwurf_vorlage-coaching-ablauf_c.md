@@ -3,7 +3,7 @@ status: zur Freigabe
 von: cornelius
 an: michi
 datum: 2026-11-15
-bezug: ersetzt uebergaben/_freigabe/2026-11-15_cornelius_entwurf_vorlage-coaching-ablauf_b.md; Sitzungsplan-Artifact https://claude.ai/artifact/Gh3CmgEnh87boXbXfXSiGL (Stand mit Reiter Erstgespräch und Bewertung); CLAUDE OUTPUTS/Büchel Coaching/Gespraechsleitfaden_Erstgespraech_Vorlage_allgemein_2026-11-15_v2.docx; uebergaben/2026-11-14_vorlagen/2026-11-14_claude_entwurf_grundvorlage-coachee.md; www.buechel-consulting.de/einzelcoaching.html und /faq.html (abgerufen 15.11.2026)
+bezug: ersetzt uebergaben/_freigabe/2026-11-15_cornelius_entwurf_vorlage-coaching-ablauf_b.md; Sitzungsplan-Artifact https://claude.ai/artifact/Gh3CmgEnh87boXbXfXSiGL (Stand mit Reiter Erstgespräch und Bewertung); CLAUDE OUTPUTS/Büchel Coaching/Gespraechsleitfaden_Erstgespraech_Vorlage_allgemein_2026-11-15_v3.docx; uebergaben/2026-11-14_vorlagen/2026-11-14_claude_entwurf_grundvorlage-coachee.md; www.buechel-consulting.de/einzelcoaching.html und /faq.html (abgerufen 15.11.2026)
 ---
 
 # Entwurf: Vorlage Coaching-Ablauf als Erweiterung des Sitzungsplans
@@ -12,7 +12,7 @@ Methodischer Entwurf ohne Falldaten. Die Vorlage ist kein eigenes Dokument. Sie 
 
 Grundlagen:
 - Sitzungsplan-Artifact: Reiter, Feldliste `FD`, Sitzungsarten `ARTEN`, Erstgesprächs-Punkte `EG`.
-- Erstgesprächs-Vorlage `Gespraechsleitfaden_Erstgespraech_Vorlage_allgemein_2026-11-15_v2.docx`: an die Homepage angepasst, Kundennummer statt Name. Sie ist die aktuelle Fassung.
+- Erstgesprächs-Vorlage `Gespraechsleitfaden_Erstgespraech_Vorlage_allgemein_2026-11-15_v3.docx`: an die Homepage angepasst, Kundennummer statt Name, Hinweis „in allen Feldern nur Kürzel, keine Namen, Firmen oder Orte“. Sie ist die aktuelle Fassung.
 - Homepage, Seiten Einzelcoaching und FAQ: Pakete, Dauer, Ablauf.
 - Grundvorlage für Coachee-Vorlagen (Arbeitsblätter je Intervention). Sie wird nicht doppelt beschrieben. Der Sitzungsplan verweist über `sitzung.vorlagen` auf die Blätter, und Baustein E (Abschluss-Streifen) nutzt `skala_ein` und `skala_end`.
 - Lernmatrix und Fragenkatalog (Lesekopie in `wissen/freigegeben/`). Die Fragen-Nummern beziehen sich auf den Fragenkatalog.
@@ -50,7 +50,7 @@ Reihenfolge: Übersicht Sitzungen → Erstgespräch → Vorbereitung → Sitzung
 
 ## Regeln für alle Schritte
 
-- Keine Namen, Firmen, Orte oder Organisationen in den Feldern. Der Coachee wird nur mit der Kundennummer geführt (`plan.kundennr`, in der docx oben „Kundennummer“).
+- Keine Namen, Firmen, Orte oder Organisationen in den Feldern. Der Coachee wird nur mit der Kundennummer geführt (`plan.kundennr`, in der docx oben „Kundennummer“, daneben der Hinweis „in allen Feldern nur Kürzel, keine Namen, Firmen oder Orte“).
 - Ausgefüllte Fassungen bleiben im Browser (Sitzungsplan) oder in Michis eigener Klientenablage, nie in `uebergaben/`, `wissen/` oder im Repository.
 - Beobachtung, Hypothese und offene Frage stehen getrennt. Es gibt kein Feld für eine Einschätzung der Person.
 - Auf Themen jenseits von Coaching wird in jedem Schritt geprüft, in dem neue Informationen dazukommen: Vorabkontakt, Erstgespräch (Feld Abgrenzung), Bewertung im Kerncoaching, Zwischenphase, Abschluss.
@@ -214,17 +214,17 @@ Selbstreflexion optional mit dem Skill `cornelius-selbstsupervision`, Fragen aus
 
 ## Abgleich docx und Homepage
 
-Die docx-Fassung `_2026-11-15_v2` ist an die Homepage angepasst:
+Die docx-Fassung `_2026-11-15_v3` ist an die Homepage angepasst:
 
-| Punkt | ursprüngliche docx | Homepage | docx `_2026-11-15_v2` |
+| Punkt | ursprüngliche docx | Homepage | docx `_2026-11-15_v3` |
 |---|---|---|---|
 | Paketnamen | Orientierung, Kurswechsel, Neuausrichtung | „Schnell Klarheit gewinnen“, „Den eigenen Führungsstil schärfen“, „Neu ausrichten, wenn es zu viel wurde“ | wie Homepage |
 | Dauer der Coachingeinheit | Kerncoaching 60–90 Min | ca. 90 Min | ca. 90 Min |
 | nach den Einheiten | Follow-up, 20 Min | Nachbesprechung, 15 Min, online | Nachbesprechung / Follow-up, 15 Min, online (3/4/4/4 Min) |
 | Erstgespräch | 15 Min | 15 Min, online, kostenlos | 15 Min |
 | Kopffeld | Name des Coachees | — | Kundennummer |
+| Hinweis Datenschutz | — | — | neben „Thema“: „in allen Feldern nur Kürzel, keine Namen, Firmen oder Orte“ |
 
 ## Offene Punkte für Michi
 
-1. **Warnsatz in der docx:** „nur Kürzel, keine Namen, Firmen oder Orte“ bei „Thema“ und den Freitextfeldern. Wartet auf Michis Entscheidung.
-2. **Business-Coaching (B2B):** später in einem separaten Chat, als zusätzlicher Reiter im Sitzungsplan mit eigenen Feldern. Diese Vorlage gilt nur für Einzelcoaching.
+1. **Business-Coaching (B2B):** später in einem separaten Chat, als zusätzlicher Reiter im Sitzungsplan mit eigenen Feldern. Diese Vorlage gilt nur für Einzelcoaching.
