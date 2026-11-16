@@ -1,6 +1,6 @@
 # CLAUDE.md (Repository laendle36-png/bc)
 
-Privates Repository mit den Agenten-Definitionen des Teams (`.claude/agents/`).
+Privates Repository.
 
 ## Branch
 
@@ -13,5 +13,5 @@ Anweisung von Michi (14.11.2026): In diesem Repository arbeitest du direkt auf d
 - Keine Coachee-Daten, Kontaktnamen oder Zugangsdaten in dieses Repository.
 - Keine Übergaben, Vermerke, Fassungen, Rechnungen oder Zahlen zu Michis Finanzen in dieses Repository kopieren (Entscheidung Michi, 16.11.2026). Die Nextcloud ist die einzige Quelle für Übergaben. Ausnahme nur auf ausdrücklichen Auftrag von Michi im Einzelfall.
 - Enge Aufgabe: Erledige genau das Verlangte. Auffälliges daneben meldest du in einem Satz, du änderst es nicht.
-- Antworten an Michi: höchstens 8 Zeilen, außer er verlangt mehr.
+- Statusmeldungen an Michi: höchstens 8 Zeilen. Entwürfe und Analysen so lang wie nötig, mit Zusammenfassung vorweg.
 - Subagenten nur auf Michis Auftrag, höchstens einer gleichzeitig, mit klarem Scope. Sein Ergebnis umfasst höchstens 10 Zeilen.
