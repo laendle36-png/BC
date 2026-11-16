@@ -1,8 +1,9 @@
 ---
-status: offen
+status: erledigt
 von: helga
 an: michi
 datum: 2026-11-16
+vermerk: Von Michi freigegeben und am 16.11.2026 in der Nextcloud eingespielt (rollen/zentrale.md, zentrale_v2026-11-16.md, 00_INDEX v14; Sicherungen *_veraltet_2026-11-16.md)
 bezug: inbox/an_helga/2026-11-16_zentrale_rollen-datei_postfach-assistent.md; .claude/agents/kerstin.md (Commit 50ea93b)
 ---
 
