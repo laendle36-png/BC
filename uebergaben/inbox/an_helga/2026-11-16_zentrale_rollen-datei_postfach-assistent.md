@@ -1,5 +1,5 @@
 ---
-status: offen
+status: erledigt
 von: zentrale
 an: helga
 bezug: .claude/agents/kerstin.md (Commit 50ea93b), Auftrag von Michi vom 16.11.2026
