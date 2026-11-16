@@ -18,8 +18,10 @@ Michi hat am 15.11.2026 im Chat entschieden:
 
 Folge nach Fassung d (vorläufig, ungeprüft): nötiger Jahresumsatz netto ca. 59.400 € (Regelbesteuerung), Preis je Sitzung bei 8 / 10 / 12 Sitzungen pro Woche netto 169 / 135 / 112 €, brutto 201 / 161 / 134 €.
 
+5. **Planwert für René:** Preisstufe III (Einzelpreis 209 €, Pakete 209 / 599 / 999 € brutto, ca. 8 Sitzungen pro Woche) aus Veras Marktprüfung (`_freigabe/2026-11-15_vera_vorschlag_preisstufen-marktpruefung.md`). Entscheidung Michi 16.11.2026.
+6. **Zeitpunkt:** Ausbildungsabschluss Ende Februar (2027, Jahr nicht ausdrücklich genannt). Danach passt Michi die Preise an. Die Website-Hinweise zu Preisen („ab 149 €“) werden dann angepasst (Sven, Finn, nach Michis Freigabe der Texte). Bis dahin bleiben die Preise unverändert.
+
 ## Offen, vor der Umsetzung zu klären
 - Bei 55 % liegt das Entgelt vermutlich unter der Versicherungspflichtgrenze. Ob Michi dann freiwillig versichert bleiben kann und den Zuschuss behält, ist offen (Dirk: Fall „pflichtversichert“ wäre wahrscheinlicher). Klärung schriftlich bei der TKK und über die Steuerberaterin, vor dem Antrag auf Teilzeit. Der Antrag gehört in die Klärung, nicht vorher.
 - Dirk rechnet bei Bedarf eine Fassung e nur mit dem Fall „freiwillig, Zuschuss bleibt“ für 55 % und +5.000 €.
-- Preisstufe als Planwert für René: noch offen, Vera prüft die Preise gegen den Markt (Auftrag 15.11.2026).
 - Messlatte für Renés Planbeobachtung (Frage 2 im Vermerk Helga): Szenario 55 %, +5.000 €. Warnschwelle und Grenzen bleiben offen.
