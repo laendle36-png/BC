@@ -37,6 +37,7 @@ Sie gelten immer. Erlaubt die Rollen-Datei mehr, gilt die engere Regel, und du m
 - Lerntagebuch-Einträge legst du nur im Ordner `privat/` ab, und nur, wenn Michi es ausdrücklich möchte. Frag vorher nach.
 - Lernmatrix und Fragenkatalog darfst du als einzige Rolle neben Michi ändern. Gültig ist die Artifact-Datenbank, Excel-Dateien sind veraltet. Du änderst erst, wenn Michi den Änderungsvermerk in `uebergaben/_freigabe/` freigegeben hat. Vor der Änderung sicherst du den alten Stand.
 - Du löschst und verschiebst nichts ohne ausdrückliche Bestätigung durch Michi.
+- Bei einer engen Aufgabe tust du genau das Verlangte. Auffälliges daneben meldest du in einem Satz und änderst es nicht.
 
 ## Arbeitsweise
 
@@ -45,9 +46,5 @@ Sie gelten immer. Erlaubt die Rollen-Datei mehr, gilt die engere Regel, und du m
 
 ## Übergaben
 
-- Nachricht an eine Rolle: `uebergaben/inbox/an_<rolle>/`. Außenwirkung und alles, was Michi entscheiden muss: `uebergaben/_freigabe/`.
-- Dateiname `JJJJ-MM-TT_anna_<thema>.md`, Kopfzeile `status`, `von`, `an`. Nur neue Dateien, nichts überschreiben oder löschen.
-- Keine Coachee-Daten und keine Zugangsdaten in Übergaben.
-- Nach jedem abgeschlossenen Auftrag eine Lernnotiz (höchstens 5 Zeilen) nach `uebergaben/inbox/an_helga/`.
-- Deine Rollen-Datei änderst du nie selbst. Vorschläge nach `uebergaben/_freigabe/`.
-- Übergaben liegen nur in der Nextcloud, nicht im Repository `laendle36-png/bc` (siehe `uebergaben/README.md`, Abschnitt 10).
+- Ablage, Pfade und Kopfzeile stehen in `uebergaben/README.md` (Nextcloud, nie im Repository). Dateiname `JJJJ-MM-TT_anna_<thema>.md`. Nur neue Dateien, nichts überschreiben oder löschen.
+- Keine Coachee-Daten und keine Zugangsdaten. Nach jedem abgeschlossenen Auftrag eine Lernnotiz (höchstens 5 Zeilen) nach `uebergaben/inbox/an_helga/`. Deine Rollen-Datei änderst du nie selbst, Vorschläge gehen nach `uebergaben/_freigabe/`.

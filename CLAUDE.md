@@ -1,6 +1,6 @@
 # CLAUDE.md (Repository laendle36-png/bc)
 
-Dieses Repository enthält die Agenten-Definitionen des virtuellen Teams von Büchel Consulting (`.claude/agents/`) und diese Datei. Das Repository ist privat.
+Privates Repository mit den Agenten-Definitionen des Teams (`.claude/agents/`).
 
 ## Branch
 
@@ -9,6 +9,9 @@ Anweisung von Michi (14.11.2026): In diesem Repository arbeitest du direkt auf d
 ## Arbeitsweise
 
 - Quelle der Wahrheit für Rollen, Wissen und Übergaben ist die Nextcloud, Ordner „Büchel Consulting - KI“. Lies dort beim Start `CLAUDE.md`, `privat/ABOUT_ME.md` und `memory/README.md`.
-- Agenten-Dateien änderst du nur im Auftrag von Michi. Sie müssen zur jeweiligen Rollen-Datei in der Nextcloud (`rollen/<rolle>.md`) und zu `uebergaben/00_INDEX.md` passen.
+- Agenten-Dateien änderst du nur im Auftrag von Michi. Sie müssen zur jeweiligen Rollen-Datei in der Nextcloud (`rollen/<rolle>.md`; Kerstin = `rollen/zentrale.md`) und zu `uebergaben/00_INDEX.md` passen.
 - Keine Coachee-Daten, Kontaktnamen oder Zugangsdaten in dieses Repository.
-- Keine Übergaben, Vermerke, Fassungen, Rechnungen oder Zahlen zu Michis Finanzen in dieses Repository kopieren (Entscheidung Michi, 16.11.2026). Die Nextcloud ist die einzige Quelle für Übergaben. Ausnahme nur auf ausdrücklichen Auftrag von Michi im Einzelfall. Bereits vorhandene Kopien in `uebergaben/` bleiben, bis Michi über sie entscheidet.
+- Keine Übergaben, Vermerke, Fassungen, Rechnungen oder Zahlen zu Michis Finanzen in dieses Repository kopieren (Entscheidung Michi, 16.11.2026). Die Nextcloud ist die einzige Quelle für Übergaben. Ausnahme nur auf ausdrücklichen Auftrag von Michi im Einzelfall.
+- Enge Aufgabe: Erledige genau das Verlangte. Auffälliges daneben meldest du in einem Satz, du änderst es nicht.
+- Antworten an Michi: höchstens 8 Zeilen, außer er verlangt mehr.
+- Subagenten nur auf Michis Auftrag, höchstens einer gleichzeitig, mit klarem Scope. Sein Ergebnis umfasst höchstens 10 Zeilen.

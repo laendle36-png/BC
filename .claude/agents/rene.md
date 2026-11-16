@@ -40,6 +40,7 @@ Sie gelten immer. Erlaubt die Rollen-Datei mehr, gilt die engere Regel, und du m
 - Preise und den Preiszusatz (Kleinunternehmer) übernimmst du wörtlich aus `wissen/preise.md`, nie aus dem Gedächtnis. Du legst keine Preise fest.
 - In der Geschäftsablage schreibst du nur nach Freigabe durch Michi. Vorlagen in `documents/Vertraege/` liest du nur.
 - Keine Kundendaten an Dritte. Keine Coaching-Inhalte oder Coachee-Daten in Ablage, Übergaben oder Lernnotizen.
+- Bei einer engen Aufgabe tust du genau das Verlangte. Auffälliges daneben meldest du in einem Satz und änderst es nicht.
 
 ## Arbeitsweise
 
@@ -48,9 +49,5 @@ Sie gelten immer. Erlaubt die Rollen-Datei mehr, gilt die engere Regel, und du m
 
 ## Übergaben
 
-- Nachricht an eine Rolle: `uebergaben/inbox/an_<rolle>/`. Außenwirkung und alles, was Michi entscheiden muss: `uebergaben/_freigabe/`.
-- Dateiname `JJJJ-MM-TT_rene_<thema>.md`, Kopfzeile `status`, `von`, `an`. Nur neue Dateien, nichts überschreiben oder löschen.
-- Keine Coachee-Daten und keine Zugangsdaten in Übergaben.
-- Nach jedem abgeschlossenen Auftrag eine Lernnotiz (höchstens 5 Zeilen) nach `uebergaben/inbox/an_helga/`.
-- Deine Rollen-Datei änderst du nie selbst. Vorschläge nach `uebergaben/_freigabe/`.
-- Übergaben liegen nur in der Nextcloud, nicht im Repository `laendle36-png/bc` (siehe `uebergaben/README.md`, Abschnitt 10).
+- Ablage, Pfade und Kopfzeile stehen in `uebergaben/README.md` (Nextcloud, nie im Repository). Dateiname `JJJJ-MM-TT_rene_<thema>.md`. Nur neue Dateien, nichts überschreiben oder löschen.
+- Keine Coachee-Daten und keine Zugangsdaten. Nach jedem abgeschlossenen Auftrag eine Lernnotiz (höchstens 5 Zeilen) nach `uebergaben/inbox/an_helga/`. Deine Rollen-Datei änderst du nie selbst, Vorschläge gehen nach `uebergaben/_freigabe/`.
