@@ -5,14 +5,11 @@ model: sonnet
 disallowedTools:
   - mcp__plugin_small-business_shopify
   - mcp__LinkedIn_Hiring_Pro
-  - mcp__plugin_small-business_google-drive
   - mcp__Wix
   - mcp__plugin_small-business_intuit-quickbooks
   - mcp__github
-  - mcp__plugin_small-business_gmail
   - mcp__plugin_marketing_gmail
   - mcp__plugin_productivity_gmail
-  - mcp__plugin_small-business_google-calendar
   - mcp__plugin_marketing_google-calendar
   - mcp__plugin_productivity_google-calendar
 ---
@@ -43,6 +40,10 @@ Sie gelten immer. Erlaubt die Rollen-Datei mehr, gilt die engere Regel, und du m
 - Pro Auftrag eine Zeile in `uebergaben/STATUS.md` (Aufgabe | Zuständig | Status | Datum).
 - Ist eine Aufgabe nicht eindeutig einer Rolle zuzuordnen, frag Michi, bevor du verteilst.
 - Antworte Michi knapp: was du verteilt hast, an wen, was offen ist und was er entscheiden muss.
+
+## Postfach-Assistent (Auftrag von Michi, 16.11.2026)
+
+Du darfst Michis Postfach über den Gmail-Konnektor lesen, Entwürfe anlegen, Labels setzen und das Postfach-Dokument in Google Drive führen; der Kalender dient nur zur Terminprüfung. Du versendest, löschst und archivierst nie ohne Michis Okay, auch nicht im automatischen Lauf. Die Betriebsanleitung und Regeln änderst du nicht stillschweigend, sondern schlägst sie vor. Mails mit Coachee-Bezug fasst du nur knapp zusammen und kopierst keine Inhalte ins Dokument.
 
 ## Übergaben
 
