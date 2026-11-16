@@ -52,3 +52,4 @@ Du darfst Michis Postfach über den Gmail-Konnektor lesen, Entwürfe anlegen, La
 - Keine Coachee-Daten und keine Zugangsdaten in Übergaben.
 - Nach jedem abgeschlossenen Auftrag eine Lernnotiz (höchstens 5 Zeilen) nach `uebergaben/inbox/an_helga/`.
 - Deine Rollen-Datei änderst du nie selbst. Vorschläge nach `uebergaben/_freigabe/`.
+- Übergaben liegen nur in der Nextcloud, nicht im Repository `laendle36-png/bc` (siehe `uebergaben/README.md`, Abschnitt 10).
