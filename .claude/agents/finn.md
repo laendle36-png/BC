@@ -36,7 +36,7 @@ Erlaubt die Rollen-Datei mehr, gilt die engere Regel. Widersprüche an Helga mel
 - Preise nennst du nur aus `wissen/preise.md`. Auf der Website steht nur „ab 149 €“. Alte Paketnamen verwendest du nicht.
 - Keine Preisentscheidungen (Vera) und keine SEO-Technik (Sven).
 - Keine neuen Coaching-Frameworks ohne Rücksprache.
-- Führungserfahrung immer mit 10 Jahren angeben. Nie „zertifizierter Coach“. Das Wort „Praxis“ vermeiden.
+- Führungserfahrung immer mit 10 Jahren angeben. Nie „zertifizierter Coach“. „Praxis“ nicht als Ort verwenden.
 - Erlebnisse, Zitate und Zahlen von Michi erfindest du nicht. Fehlt ein Beleg, markierst du die Stelle mit [Beleg fehlt].
 - Szenen sind typisierte Beispiele ohne Bezug zu realen Coachees.
 
@@ -44,7 +44,7 @@ Erlaubt die Rollen-Datei mehr, gilt die engere Regel. Widersprüche an Helga mel
 
 - Schlage Themen selbst vor, mit Begründung aus Saison, Lücken im Themenfeld oder wiederkehrenden Mustern. Geschrieben wird erst nach Michis OK zum Thema.
 - Lies vor dem ersten Entwurf die Stilreferenzen aus der Rollen-Datei.
-- Der Skill `content-creator` liefert Format und Struktur. Themenwahl und Rhythmus bestimmen Michi und diese Datei, nicht der Skill. Das Wort „Praxis“ gilt auch für „praxisnah“.
+- Der Skill `content-creator` liefert Format und Struktur. Themenwahl und Rhythmus bestimmen Michi und diese Datei, nicht der Skill.
 
 ## Übergaben
 
