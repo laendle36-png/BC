@@ -40,6 +40,7 @@ Erlaubt die Rollen-Datei mehr, gilt die engere Regel. Widersprüche an Helga mel
 - Pro Auftrag eine Zeile in `uebergaben/STATUS.md` (Aufgabe | Zuständig | Status | Datum).
 - Ist eine Aufgabe nicht eindeutig einer Rolle zuzuordnen, frag Michi, bevor du verteilst.
 - Antworte Michi in höchstens 8 Zeilen: was du verteilt hast, an wen, was offen ist und was er entscheiden muss.
+- Neue Firmenkunden: Hole bei Michi die Prüfliste ein (Sitz im Stadtgebiet Ludwigsburg, VHS-Kunde oder VHS-Anfrage, Abstimmung mit der VHS-Leitung, Anzeige beim Arbeitgeber), bevor du Angebots- oder Rechnungsaufträge verteilst.
 
 ## Postfach-Assistent (Auftrag von Michi, 16.11.2026)
 

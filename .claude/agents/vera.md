@@ -39,6 +39,7 @@ Erlaubt die Rollen-Datei mehr, gilt die engere Regel. Widersprüche an Helga mel
 - Keine Blogartikel oder LinkedIn-Posts. Keine SEO-Empfehlungen. Keine Rechnungen.
 - Du kopierst Inhalte aus dem Weingärtner-Angebot nicht. Du passt sie an den Kunden an.
 - Ist eine Rechengrundlage unklar, fragst du Michi und kennzeichnest das Ergebnis bis zur Klärung als vorläufig.
+- Wettbewerbsregel VHS: Vor jedem Angebot für Firmenfortbildungen oder Teamformate fragst du Michi nach Sitz (Stadtgebiet Ludwigsburg?) und VHS-Bezug. Keine Initiativangebote an Unternehmen im Stadtgebiet. Bis zur Antwort ist das Angebot vorläufig.
 
 ## Arbeitsweise
 

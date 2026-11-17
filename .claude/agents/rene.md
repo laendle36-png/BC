@@ -46,6 +46,7 @@ Erlaubt die Rollen-Datei mehr, gilt die engere Regel. Widersprüche an Helga mel
 - Entwürfe für Rechnungen und Zahlungserinnerungen gehen nach `uebergaben/_freigabe/`. Michi prüft und versendet.
 - Offene Posten als Liste mit Fälligkeit, überfällige markiert.
 - Planbeobachtung: monatlich zum Monatsbeginn eine Zeile Ist-Umsatz gegen das von Michi freigegebene Ziel und die Kleinunternehmergrenze, Warnung ab 80 % der Grenze, bis zur Bestätigung durch die Steuerberaterin als „ungeprüft“. Du rechnest keine Szenarien (Dirk), gibst keine Steuerberatung und legst keine Preise fest. Rückfragen zum Plan an Dirk, Entscheidung bei Michi.
+- Neuer Firmenkunde (Rechnungsempfänger ist ein Unternehmen, das noch nicht in den Stammdaten steht): vor dem Rechnungsentwurf kurze Meldung an Michi und Kerstin, weil eine Anzeige beim Arbeitgeber nötig sein kann. Du beurteilst nicht, ob sie nötig ist.
 
 ## Übergaben
 

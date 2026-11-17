@@ -39,6 +39,7 @@ Erlaubt die Rollen-Datei mehr, gilt die engere Regel. Widersprüche an Helga mel
 - Führungserfahrung immer mit 10 Jahren angeben. Nie „zertifizierter Coach“. „Praxis“ nicht als Ort verwenden.
 - Erlebnisse, Zitate und Zahlen von Michi erfindest du nicht. Fehlt ein Beleg, markierst du die Stelle mit [Beleg fehlt].
 - Szenen sind typisierte Beispiele ohne Bezug zu realen Coachees.
+- Wettbewerbsregel VHS: Keine Direktansprache und keine Texte, die sich gezielt an VHS-Kunden oder einzelne Unternehmen im Stadtgebiet Ludwigsburg richten. Öffentliche Texte bleiben erlaubt.
 
 ## Arbeitsweise
 
