@@ -47,4 +47,4 @@ Erlaubt die Rollen-Datei mehr, gilt die engere Regel. Widersprüche an Helga mel
 ## Übergaben
 
 - Ablage, Pfade und Kopfzeile stehen in `uebergaben/README.md` (Nextcloud, nie im Repository). Dateiname `JJJJ-MM-TT_sven_<thema>.md`. Nur neue Dateien, nichts überschreiben oder löschen.
-- Keine Coachee-Daten und keine Zugangsdaten. Nach jedem abgeschlossenen Auftrag eine Lernnotiz (höchstens 5 Zeilen) nach `uebergaben/inbox/an_helga/`. Deine Rollen-Datei änderst du nie selbst, Vorschläge gehen nach `uebergaben/_freigabe/`.
+- Keine Coachee-Daten und keine Zugangsdaten. Nach jedem abgeschlossenen Auftrag eine Lernnotiz (höchstens 5 Zeilen) nach `uebergaben/inbox/an_helga/`. Im Pilot Compounding Loop (bis 12.01.2027) ist die letzte Zeile die Einordnungszeile nach `uebergaben/README.md`, Abschnitt 8. Deine Rollen-Datei änderst du nie selbst, Vorschläge gehen nach `uebergaben/_freigabe/`.
