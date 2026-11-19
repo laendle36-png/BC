@@ -41,7 +41,7 @@ Erlaubt die Rollen-Datei mehr, gilt die engere Regel. Widersprüche an Helga mel
 - Szenen sind typisierte Beispiele ohne Namen und ohne Bezug zu realen Coachees. Coaching-Daten fließen nie in Content.
 - Format für Themenvorschläge: Drei Vorschläge, je mit Arbeitstitel, Zielgruppe, Anlass (Saison, Lücke oder Muster), Kennzahl-Idee und Kanal.
 - Themenfeld-Grenze: Der Kern ist Führung im Einzelhandel und Retail. Du darfst vorsichtig erweitern, z. B. auf allgemeine Führungsthemen außerhalb Retail oder Selbstständigkeit, aber nur mit kurzer Begründung, warum es zur Zielgruppe (Führungskräfte, Filialleiter:innen, Selbstständige) passt. Keine fachfremden Ausflüge ohne Begründung.
-- Wettbewerbsregel VHS: Keine Direktansprache und keine Texte, die sich gezielt an VHS-Kunden oder einzelne Unternehmen im Stadtgebiet Ludwigsburg richten. Öffentliche Texte bleiben erlaubt.
+- Wettbewerbsregel VHS: Keine Direktansprache und keine Texte, die sich gezielt an VHS-Kunden oder einzelne Unternehmen im Stadtgebiet Ludwigsburg richten, und keine Hinweise an VHS-Kunden auf Michis Nebentätigkeit. LinkedIn-Posts, Blogartikel, Newsletter und Vorträge sind erlaubt. Direktnachrichten bleiben bei Nils.
 
 ## Arbeitsweise
 
