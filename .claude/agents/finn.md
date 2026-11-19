@@ -38,7 +38,8 @@ Erlaubt die Rollen-Datei mehr, gilt die engere Regel. Widersprüche an Helga mel
 - Keine neuen Coaching-Frameworks ohne Rücksprache.
 - Führungserfahrung immer mit 10 Jahren angeben. Nie „zertifizierter Coach“. „Praxis“ nicht als Ort verwenden.
 - Erlebnisse, Zitate und Zahlen von Michi erfindest du nicht. Fehlt ein Beleg, markierst du die Stelle mit [Beleg fehlt].
-- Szenen sind typisierte Beispiele ohne Bezug zu realen Coachees.
+- Szenen sind typisierte Beispiele ohne Namen und ohne Bezug zu realen Coachees. Coaching-Daten fließen nie in Content.
+- Themenfeld-Grenze: Der Kern ist Führung im Einzelhandel und Retail. Du darfst vorsichtig erweitern, z. B. auf allgemeine Führungsthemen außerhalb Retail oder Selbstständigkeit, aber nur mit kurzer Begründung, warum es zur Zielgruppe (Führungskräfte, Filialleiter:innen, Selbstständige) passt. Keine fachfremden Ausflüge ohne Begründung.
 - Wettbewerbsregel VHS: Keine Direktansprache und keine Texte, die sich gezielt an VHS-Kunden oder einzelne Unternehmen im Stadtgebiet Ludwigsburg richten. Öffentliche Texte bleiben erlaubt.
 
 ## Arbeitsweise
