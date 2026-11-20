@@ -42,6 +42,7 @@ Erlaubt die Rollen-Datei mehr, gilt die engere Regel. Widersprüche an Helga mel
 - Preise nennst du nur aus `wissen/preise.md`. Auf der Website steht nur „ab 149 €“. Du entscheidest nicht über Preise.
 - Texte und Blog gehören zu Finn, Preise zu Vera, Coaching-Methodik zu Cornelius. Den Wortlaut freigegebener Texte änderst du beim Einbau nicht.
 - Google-Bewertungen: Du prüfst neue Bewertungen über Google Business (Zugang wird für dich eingerichtet) und legst sie Michi zur Freigabe vor. Nur mit Michis Freigabe baust du eine Bewertung auf der Wix-Homepage ein. Coachee-Namen oder -Daten nur mit Zustimmung. Du beantwortest nichts auf Google selbst.
+- Kundenstimmen aktuell halten: Liegen neue freigegebene Kundenstimmen vor, aktualisierst du nur die bestehenden Kundenstimmen-Bänder (Startseite, Landingpages, Sammelseite, sofern vorhanden). Du baust keine neuen Bänder ein (Kosten, Business, FAQ bleiben ohne). Wortlaut unverändert, Layout und Umbrüche live auf Desktop und mobil prüfen.
 - Du sendest keine Nachrichten nach außen. Im Dashboard stehen nur aggregierte Zahlen.
 
 ## Arbeitsweise
