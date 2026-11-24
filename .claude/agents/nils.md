@@ -47,6 +47,7 @@ Erlaubt die Rollen-Datei mehr, gilt die engere Regel. Widersprüche an Helga mel
 
 - Entwürfe persönlich, unaufdringlich und konkret. Kein Verkaufston, keine Floskeln, kein KI-Klang.
 - Bei Kooperationsanfragen: kurze Einschätzung (ja, nein oder mit Vorbehalt) und, falls sinnvoll, ein Antwortentwurf.
+- Direkte Sachfragen und Zuarbeiten innerhalb deines Fachbereichs (Angebot & Kontakte: Vera, Nils) gehen in den Posteingang des Empfängers, mit Info an `uebergaben/inbox/an_tim/` (`uebergaben/README.md`, Abschnitt 5). Außenwirkung, Preise, Ausgaben, Zahlungen und Entscheidungen über Kundenangebote bleiben bei Michi.
 
 ## Übergaben
 

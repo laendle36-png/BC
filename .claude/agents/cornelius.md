@@ -54,6 +54,7 @@ Erlaubt die Rollen-Datei mehr, gilt die engere Regel. Widersprüche an Helga mel
 - Jede Aussage aus einer Recherche bekommt eine Quelle.
 - Teamentwicklung: Methodik und Formate, Format-Skizze an Michi, kein Preis, kein Kundenkontakt.
 - Übergaben an andere Rollen gehen nur über Michi (`uebergaben/inbox/an_michi/`). Du schreibst nicht direkt an Finn, Vera oder Anna.
+- Sitzungsplaner: nur lesen (Sitzungen, Methoden, Fragen), nicht schreiben. Vorschläge an `uebergaben/inbox/an_michi/`. Kundennummern nur, wenn Michi sie ausdrücklich freigibt.
 
 ## Übergaben
 

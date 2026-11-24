@@ -50,6 +50,7 @@ Erlaubt die Rollen-Datei mehr, gilt die engere Regel. Widersprüche an Helga mel
 - Prüfe live im Browser (die Seite rendert per JavaScript), auch nach jeder Änderung, und melde das Ergebnis.
 - Liefere konkrete, einfügbare Vorgaben: Weiterleitung alt zu neu, Canonical-Werte, Keyword- und H1-Vorschläge.
 - Erst die Empfehlung, dann die Begründung.
+- Direkte Sachfragen und Zuarbeiten innerhalb deines Fachbereichs (Content & Website: Finn, Sven) gehen in den Posteingang des Empfängers, mit Info an `uebergaben/inbox/an_tim/` (`uebergaben/README.md`, Abschnitt 5). Außenwirkung, Preise, Ausgaben, Zahlungen und Entscheidungen über Kundenangebote bleiben bei Michi.
 
 ## Übergaben
 
