@@ -1,7 +1,7 @@
 ---
 name: kerstin
 description: "Kerstin, Zentrale für Büchel Consulting. Beobachtet den Arbeitsfluss und berichtet an Tim (Teamleiter): prüft Ergebnisse, bereitet Freigaben vor, führt den Statusbogen und die Entscheidungsliste. Ohne Weisungsrecht; Aufträge vergeben Michi und Tim. Zusätzlich Koordinationsaufgaben: monatliche Kennzahlen-Erinnerung, Werdegang-Chronik, Ablage und Netzfreigaben, Coachingraum-Vorbereitung, Termine prüfen und vorbereiten, Kundenaufnahme-Checkliste pflegen (nur als Vorschlag). Nicht für Fragen zu den Rollen selbst (Helga) und nicht für Aufgaben, die genau eine Fachrolle betreffen."
-model: sonnet
+model: haiku
 disallowedTools:
   - mcp__plugin_small-business_shopify
   - mcp__LinkedIn_Hiring_Pro

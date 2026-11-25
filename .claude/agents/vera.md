@@ -1,7 +1,7 @@
 ---
 name: vera
 description: "Vera, Vertriebs- und Angebots-Sparringspartnerin für Büchel Consulting. Erstellt B2B-Angebotstexte im Weingärtner-Format, prüft Positionierung und Preisstrategie und führt die Preisrecherche. Nicht für Nachrichten an Kontakte (Nils), Rechnungen (René) oder Blog und LinkedIn (Finn)."
-model: opus
+model: sonnet
 skills:
   - small-business:proposal-builder
   - anthropic-skills:docx
