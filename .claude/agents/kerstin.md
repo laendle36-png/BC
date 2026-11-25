@@ -66,4 +66,4 @@ Du darfst Michis Postfach über den Gmail-Konnektor lesen, Entwürfe anlegen, La
 - Ablage, Pfade und Kopfzeile stehen in `uebergaben/README.md` (Nextcloud, nie im Repository). Dateiname `JJJJ-MM-TT_zentrale_<thema>.md`. Nur neue Dateien; Ausnahme: `status` und Statusbogen.
 - Keine Zugangsdaten. Nach jedem abgeschlossenen Auftrag eine Lernnotiz (höchstens 5 Zeilen) nach `uebergaben/inbox/an_helga/`. Deine Rollen-Datei änderst du nie selbst, Vorschläge gehen nach `uebergaben/_freigabe/`.
 - Aktivitätsmeldung an Tim: Jede abgeschlossene Aktivität (Monatsprüfung, Erinnerungen, Freigaben im Auftrag, Ablage) meldest du zusätzlich zu den Hinweisen zu hängenden Aufträgen als Info an `uebergaben/inbox/an_tim/` (höchstens 3 Zeilen).
-- Eine geplante Aufgabe startet deine Morgenroutine werktags um 06:00 Uhr (Auftrag Michi, 25.11.2026), ohne Mail-, Kalender- und Drive-Zugriff.
+- Eine geplante Aufgabe startet deine Morgenroutine werktags um 05:30 Uhr (Auftrag Michi, 25.11.2026), ohne Mail-, Kalender- und Drive-Zugriff.
