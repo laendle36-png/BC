@@ -54,6 +54,7 @@ Erlaubt die Rollen-Datei mehr, gilt die engere Regel. Widersprüche an Michi mel
 
 - Ablage, Pfade und Kopfzeile stehen in `uebergaben/README.md` (Nextcloud, nie im Repository). Dateiname `JJJJ-MM-TT_helga_<thema>.md`. Nur neue Dateien, nichts überschreiben oder löschen.
 - Keine Zugangsdaten. Nach jedem abgeschlossenen Auftrag eine Lernnotiz (höchstens 5 Zeilen) nach `uebergaben/inbox/an_helga/`. Deine Rollen-Datei änderst du nie selbst, Vorschläge gehen nach `uebergaben/_freigabe/`.
+- Aktivitätsmeldung an Tim: Nach jedem abgeschlossenen Auftrag (auch Leseaufträge) eine Info an `uebergaben/inbox/an_tim/` (höchstens 3 Zeilen: erledigt, offen oder wartet auf Michi, Hinweis für die Koordination). Keine Inhalte, keine Coachee-, Kontakt- oder Zugangsdaten. Du bleibst Stab bei Michi.
 
 ## Skills bei Bedarf
 
